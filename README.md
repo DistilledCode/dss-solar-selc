@@ -11,6 +11,7 @@ This project requires Python 3.10 or higher. You can install the required depend
 
 ```bash
 pip install -r requirements.txt
+pre-commit install
 ```
 
 ## Usage
@@ -30,9 +31,3 @@ scrapper.fetch_ec("hybrid")
 scrapper.fetch_ec("renewable-regulation")
 scrapper.fetch_ec("solar")
 ```
-
-#### Class Attributes
-
-- `EC_URL`: Base URL for the Economic Times website.
-- `EC_CMFID_URL`: Dictionary containing URLs for different topics with placeholders for pagination.
-- `HEADERS`: Dictionary containing HTTP headers to mimic a browser request.

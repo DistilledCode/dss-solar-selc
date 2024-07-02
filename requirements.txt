@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+pre-commit==3.7.1
+black==24.2.0
+isort==5.13.2
+flake8==7.1.0
