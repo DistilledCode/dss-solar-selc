@@ -43909,5 +43909,224 @@
                 "height": 60
             }
         }
+    },
+    "111349521": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "world bank",
+            "green hydrogen",
+            "renewable energy",
+            "low-carbon energy",
+            "energy efficiency"
+        ],
+        "headline": "World Bank lends $1.5 billion push to power green hydrogen market",
+        "description": "India's energy transition supported by the World Bank includes green hydrogen promotion, renewable energy scaling, and grid code amendments for enhanced integration of battery energy storage solutions.",
+        "datePublished": "2024-06-29T05:30:00+05:30",
+        "dateModified": "2024-06-29T05:30:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/world-bank-lends-1-5-billion-push-to-power-green-hydrogen-market/articleshow/111349521.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/world-bank-lends-1-5-billion-push-to-power-green-hydrogen-market/articleshow/111349521.cms",
+        "articleSection": "Industry",
+        "articleBody": "New Delhi: The World Bank Friday approved a $1.5 billion loan to help India accelerate low-carbon energy development by promoting a market for green hydrogen as well as electrolysers and renewable energy penetration. The green financing will allow the country to scale up renewable energy and encourage finance for low-carbon energy investments, said World Bank India country director Auguste Tano Kouame. The bank's board of executive directors approved the second tranche of financing to support the country's low-carbon transition on Friday. The Indian economy is expected to continue to expand at a rapid pace and decoupling this from rising emissions will require scaling up renewable energy, as per the bank.111349537Focus on Energy Efficiency The goal of the latest programme is to provide financing to support the government's policies and regulations that the government is putting in place to stimulate investment in energy transition, especially in green hydrogen and renewable energy, Kouame said.  Our financing (operation) is less about directly providing money to the projects and more about providing support for advancing introduction of policies and regulations and technical assistance to the design of these interventions,  he said.The next step is to help the government mobilise more financing in the energy space with a focus on the private sector, he said. Beyond funding, the bank's energy programs will continue to look at renewable energy generation, especially offshore wind and floating solar. It will also look at energy efficiency and work with the government to make systems more efficient, such as green buildings.The World Bank's programme in renewable energy is also aimed at helping integrate it into the grid, he said. The grid code should be amended to facilitate incorporation of higher proportion of renewable energy, he added. The latest programme envisaged further green energy penetration through incentivising battery energy storage solutions that are required for round-the-clock clean power.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111349521,resizemode-4,width-1200,height-900,imgsize-130822,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Shilpa Samant"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111436939": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "Spain",
+            "Renewable energy",
+            "Spain energy production",
+            "electricity",
+            "solar",
+            "hydropower",
+            "wind farms",
+            "nuclear",
+            "renewables"
+        ],
+        "headline": "Renewables produce almost 60% of Spain's electricity",
+        "description": "Spain significantly increased its renewable energy generation in the first half of 2024, with renewables contributing 60 per cent of its electricity, up from 51 per cent a year earlier, driven by new solar capacity and increased output from hydropower plants, according to data from grid operator Redeia, with wind farms generating 24.4 per cent of the total, solar plants 16. per cent, and hydropower dams 15.9 per cent, aligning with Spain's goal to reach 80 per cent renewable electricity by 2030.",
+        "datePublished": "2024-07-02T19:36:00+05:30",
+        "dateModified": "2024-07-02T19:40:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/renewables-produce-almost-60-of-spains-electricity/articleshow/111436939.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/renewables-produce-almost-60-of-spains-electricity/articleshow/111436939.cms",
+        "articleSection": "Industry",
+        "articleBody": "Spain generated almost 60 per cent of its electricity from renewable energy sources in the first half of 2024 helped by new solar capacity and more output from hydropower plants, data from grid operator Redeia showed on Tuesday. Renewables accounted for 51 per cent of the total a year earlier.111260016 Wind farms generated 24.4 per cent of the total, up from 24.1 per cent a year earlier, Redeia said in a statement. Solar plants generated 16.3 per cent of the total, up from 13.8 per cent, while hydropower dams accounted for 15.9 per cent, up from 9.8 per cent. Spain aims to generate four-fifths of its electricity from renewables by 2030 under a government plan published last year.111261547 Its main non-renewable source of electricity is nuclear, which produced 18.6 per cent of its electricity in the first half, meaning close to 80 per cent of Spain's power was carbon-free. ",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111436939,resizemode-4,width-1200,height-900,imgsize-69376,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "Reuters"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111403070": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "sjvn",
+            "Avaada Energy",
+            "820 MW hybrid project",
+            "SJVN",
+            "Vineet Mittal",
+            "sustainable energy future",
+            "e-Reverse Auction process",
+            "Avaada Group",
+            "IST (inter-state transmission system)",
+            "india",
+            "state-owned power producer"
+        ],
+        "headline": "Avaada Energy gets 820 MW hybrid project from SJVN",
+        "description": "Avaada Energy announced on Monday that it has secured an 820-megawatt hybrid project from state-owned power producer SJVN. This achievement came through an e-Reverse Auction process.",
+        "datePublished": "2024-07-01T15:25:00+05:30",
+        "dateModified": "2024-07-01T15:40:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/avaada-energy-gets-820-mw-hybrid-project-from-sjvn/articleshow/111403070.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/avaada-energy-gets-820-mw-hybrid-project-from-sjvn/articleshow/111403070.cms",
+        "articleSection": "Industry",
+        "articleBody": "New Delhi: Avaada Energy on Monday said it has secured an 820-megawatt hybrid project from state-owned power producer SJVN. The project has been secured in an e-Reverse Auction process, Avaada Energy said in a statement. Avaada Energy has secured 820 MWp-hybrid-ISTS ( inter-state transmission system ) capacity. This project was awarded by SJVN, the company said. Vineet Mittal, Chairman of Avaada Group, said,  This win strengthens our portfolio and underscores our dedication to supporting India's transition to a sustainable energy future.  The company did not disclose any financial details of the project. A hybrid project is a mix of solar and wind capacity.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111403070,resizemode-4,width-1200,height-900,imgsize-58300,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111397582": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "sjvn",
+            "SJVN",
+            "green energy",
+            "AM Green",
+            "renewable energy",
+            "green ammonia",
+            "carbon-free energy",
+            "pumped hydro storage",
+            "green hydrogen",
+            "Greenko Group",
+            "national green hydrogen mission",
+            "gic"
+        ],
+        "headline": "SJVN to supply 4500 MW green energy to AM Green's green ammonia facilities",
+        "description": "Greenko Group's subsidiary, AM Green, and SJVN Green Energy Limited (SGEL), a wholly owned subsidiary of SJVN, have signed a Memorandum of Understanding (MoU) for a long-term renewable energy supply agreement. Under the agreement, SGEL will provide 4,500 MW of carbon-free energy to power AM Green's forthcoming green ammonia facilities.",
+        "datePublished": "2024-07-01T12:36:00+05:30",
+        "dateModified": "2024-07-01T12:36:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/sjvn-to-supply-4500-mw-green-energy-to-am-greens-green-ammonia-facilities/articleshow/111397582.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/sjvn-to-supply-4500-mw-green-energy-to-am-greens-green-ammonia-facilities/articleshow/111397582.cms",
+        "articleSection": "Industry",
+        "articleBody": "Renewable energy company Greenko Group owned AM Green and SJVN Green Energy Limited (SGEL), a wholly owned subsidiary of SJVN, have entered into a Memorandum of Understanding (MoU) for a long-term agreement for supply and sourcing of renewable energy. Under the agreement, SJVN Green Energy Limited (SGEL) will supply 4,500 MW of carbon-free energy to AM Green\u2019s upcoming green ammonia facilities. SGEL will set up this capacity through solar and wind power, while AM Green will integrate it with pumped hydro storage to ensure a steady supply of green energy to AM Green facilities.SJVN plans to execute the project in three phases, with the first phase delivering 1,500 MW within two years. This initiative is a major milestone for SJVN's renewable energy expansion in India, supporting its goal of reaching 25,000 MW by 2030 and 50,000 MW by 2040, the company said in a press statement.AM Green, promoted by the founders of Greenko, targets to produce 5 million tons per annum (MTPA) of green ammonia by 2030, equivalent to about 1 MTPA of green hydrogen. This represents a fifth of India\u2019s target for green hydrogen production under the country\u2019s National Green Hydrogen Mission and 10% of Europe\u2019s target for green hydrogen imports by 2030. Mahesh Kolli, Founder, Greenko Group & AM Green said,  This partnership demonstrates AM Green\u2019s emerging leadership position as a global clean energy transition solutions platform while contributing to India\u2019s ambition of emerging as an exporter of reliable, sustainable and lowest-cost green molecules and its derivatives accelerating industrial decarbonisation globally.\u201d  Ajay Singh, CEO, SJVN Green, said that the project marks SJVN\u2019s foray into supplying power to private sector entities.\u201dIn October 2023, Gentari Sdn Bhd, through its wholly-owned subsidiary Gentari International Renewables Pte Ltd, signed an agreement with AM Green to jointly invest in phases in AM Green Ammonia Holdings BV (AMG Ammonia). Singapore's sovereign wealth fund, GIC, is also an investor in AMG Ammonia.AM Green has a strong pipeline of power offtake agreements, including NTPC Renewables and Gentari, to support its green hydrogen ambitions. With these agreements, AM Green is on a fast track for a final investment decision (FID) for its first 2 MTPA green ammonia project early this year, positioning itself ahead of other companies aiming for green ammonia capacity in India and globally, the company said.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111397582,resizemode-4,width-1200,height-900,imgsize-27502,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "ET Bureau"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
     }
 }

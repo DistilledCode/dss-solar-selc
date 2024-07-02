@@ -1,4 +1,204 @@
 {
+    "111406704": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "Solar Power Plant",
+            "Waaree Energies",
+            "Rajasthan",
+            "modules",
+            "Jaisalmer district",
+            "Fatehgarh",
+            "Sunil Rathi",
+            "Serentica Renewables India"
+        ],
+        "headline": "Waaree Energies to supply 900 MW of modules for Solar Power Plant in Rajasthan",
+        "description": "Waaree Energies has secured a contract from Serentica Renewables India to supply 900 MW modules for a solar power plant in Rajasthan's Fatehgarh district. The project is expected to be one of the largest in India with Waaree modules. The delivery schedule is set from August 2024 to February 2025. Waaree will oversee the manufacturing, testing, packing, and transportation of the modules, ensuring quality standards and timely project execution.",
+        "datePublished": "2024-07-01T17:12:00+05:30",
+        "dateModified": "2024-07-01T23:45:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/waaree-energies-to-supply-900-mw-of-modules-for-solar-power-plant-in-rajasthan/articleshow/111406704.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/waaree-energies-to-supply-900-mw-of-modules-for-solar-power-plant-in-rajasthan/articleshow/111406704.cms",
+        "articleSection": "Industry",
+        "articleBody": "Waaree Energies on Monday said it has secured a contract from Serentica Renewables India to supply 900 megawatts (MW) modules for a project located at Fatehgarh in the Jaisalmer district of Rajasthan.The project is expected to be one of the largest solar power plants installed in India with Waaree modules, marking a milestone for both companies, the company said.The delivery schedule for these Top-Con bifacial modules is set from August 2024 to February 2025.Waaree Energies will oversee the comprehensive manufacturing, testing, packing, and transportation of these solar PV modules, ensuring adherence to the quality standards and timely project execution.Sunil Rathi, Director of Sales, Waaree Energies Ltd. said,  Our elite series modules are expected to contribute to the efficiency, durability, and performance of this project. Moreover, our company has been deploying multiple projects in Rajasthan and Gujarat, thereby contributing to the clean energy shift in these states. Waaree Energies Ltd. will oversee the comprehensive manufacturing, testing, packing, and transportation of these solar PV modules, ensuring adherence to the quality standards and timely execution of the project. The deployment of this project is expected to increase the region's renewable energy capacity and contribute to reducing carbon emissions and promoting environmental sustainability, the company said. Waaree Energies has an aggregate installed capacity of 12 GW, as of June 30, 2023. It commenced operations in 2007 focusing on solar PV module manufacturing and has four solar module manufacturing facilities in India, with an international presence.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111406704,resizemode-4,width-1200,height-900,imgsize-264270,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "ET Bureau"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111399463": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "JSW Energy news",
+            "jsw energy",
+            "sjvn",
+            "Rajasthan",
+            "JSW Energy",
+            "SJVN",
+            "solar project",
+            "Renew Energy",
+            "jsw energy shares"
+        ],
+        "headline": "JSW Energy, SJVN sign PPA for 700 MW solar project in Rajasthan",
+        "description": "Pritam Singh, Singapore's Leader of Opposition and of Indian-origin, was re-elected as secretary-general of the Workers' Party (WP) on Sunday. He leads a newly elected Central Executive Committee (CEC) chaired by Sylvia Lim, comprising 14 members. Singh, who has held the position since 2018, was returned unopposed. The CEC, elected for a two-year term, is gearing up for Singapore's upcoming general election, possibly in November this year.",
+        "datePublished": "2024-07-01T13:30:00+05:30",
+        "dateModified": "2024-07-01T13:33:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/jsw-energy-sjvn-sign-ppa-for-700-mw-solar-project-in-rajasthan/articleshow/111399463.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/jsw-energy-sjvn-sign-ppa-for-700-mw-solar-project-in-rajasthan/articleshow/111399463.cms",
+        "articleSection": "Industry",
+        "articleBody": "JSW Energy on Monday said it has signed a power purchase agreement with state-owned SJVN for a 700 megawatt inter state transmission system (ISTS) solar project in Rajasthan. The company aims to commission the project over the next 24 months, JSW Energy said in a statement.   JSW Renew Energy (Raj) Limited, a wholly-owned stepdown subsidiary of JSW Energy has signed PPA with SJVN for ISTS-connected solar capacity of 700 MW,  it said.  The PPA is signed for supply of power for a period of 25 years with a tariff of Rs 2.52/KWh, JSW Energy said.  The total locked-in capacity with the project stands at 13.9 GW, while the total locked-in solar capacity is now at 3.5 GW (gigawatt).  The company did not disclose any financial information related to the project.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111399463,resizemode-4,width-1200,height-900,imgsize-385694,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111386003": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "mahindra logistics",
+            "solar power",
+            "renewable energy",
+            "cost savings",
+            "logistics facilities",
+            "environmental benefits",
+            "warehousing sector",
+            "government policies"
+        ],
+        "headline": "Warehouse operators take shine to solar power, rework logistics",
+        "description": "The move towards renewable energy is not just a response to global environmental concerns but also a strategic business decision for many warehouse operators seeking to reduce operational costs and enhance sustainability.",
+        "datePublished": "2024-06-30T22:52:00+05:30",
+        "dateModified": "2024-07-01T11:32:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/warehouse-operators-take-shine-to-solar-power-rework-logistics/articleshow/111386003.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/warehouse-operators-take-shine-to-solar-power-rework-logistics/articleshow/111386003.cms",
+        "articleSection": "Industry",
+        "articleBody": "India's warehousing sector is seeing increasing adoption of solar power, driven by cost savings, environmental benefits as well as supportive government policies.The move towards renewable energy is not just a response to global environmental concerns but also a strategic business decision for many warehouse operators seeking to reduce operational costs and enhance sustainability.Warehousing developers and operators, including Allcargo Group, Horizon Industrial Parks, Mahindra Logistics, Amazon India, and Flipkart, are incorporating solar energy into their logistics facilities and supply chain infrastructure.For instance, logistics player Allcargo Gati has solarised more than 10 facilities spread across Maharashtra, Karnataka, Telangana, Madhya Pradesh, Haryana, and Punjab. The company has a total footprint of 10 million sq ft. We aim to enhance solar capacity by solarising an additional five locations in Bhiwandi, Nagpur, Bengaluru, Indore and Farukhnagar by next year,  said Sushil Kumar Rathi, director, Allcargo Supply Chain, an Allcargo Group company.  This will add 500 kWp of solar capacity to our existing installed capacity of over 680 kWp. The group's solarisation initiatives are a testament to its vision of achieving carbon neutrality by 2040. These moves not only indicate the feasibility of solar power in warehousing but also set a precedent for others in the industry.  111386056Blackstone's logistics platform Horizon Industrial Parks has also taken steps in making rooftop solar power available at all operational parks. It has current operational and near-term planned capacity of more than 25 MW across 12 operational parks and it plans to add at least 10 MW of solar capacity annually. Currently, 20% of the total energy consumption requirements of the tenants at Horizon Industrial Parks is met by solar energy. We expect this to increase to 30-35% in the next 12-18 months, and our endeavour will be to increase it further, subject to favourable state-level renewable energy policies,  said Urvish Rambhia, principal at Blackstone Real Estate India.According to him, by providing customers with on-site solar rooftop power, Horizon Industrial Parks hopes to contribute to a large part of their renewable energy requirement at its sites. Horizon Industrial Parks, along with its affiliates, manages 24 industrial and logistics parks spread across over 1,700 acres, and with an area of 42 million sq ft, which are in 10 key markets in India.The government has been promoting renewable energy through incentives and policies. Programmes like the National Solar Mission aim to establish India as a global leader in solar energy. Subsidies, tax breaks and grants are available for businesses that invest in solar power, making it a financially viable option.Additionally, some states offer net metering policies, allowing businesses to sell excess power back to the grid, further enhancing the financial benefits.A primary motivator for the shift in warehouses is cost savings. Warehouses, which typically have large, flat rooftops, are ideal for installing solar panels.Adopting solar power aligns with the broader corporate responsibility initiatives that many companies are now prioritising.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111386003,resizemode-4,width-1200,height-900,imgsize-200542,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Kailash Babar"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111365166": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "Uttar Pradesh",
+            "Ayodhya",
+            "Varanasi",
+            "Gorakhpur",
+            "PM Surya Ghar Yojana",
+            "solar energy",
+            "rooftop solar subsidy scheme"
+        ],
+        "headline": "UP govt to promote Centre's rooftop solar subsidy scheme in Ayodhya, Varanasi and Gorakhpur",
+        "description": "The campaign for PM Surya Ghar Yojana in Uttar Pradesh targets Ayodhya, Varanasi, and Gorakhpur. It aims to boost solar energy use through a comprehensive approach and public engagement at educational institutions.",
+        "datePublished": "2024-06-29T17:59:00+05:30",
+        "dateModified": "2024-06-29T18:08:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/up-govt-to-promote-centres-rooftop-solar-subsidy-scheme-in-ayodhya-varanasi-and-gorakhpur/articleshow/111365166.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/up-govt-to-promote-centres-rooftop-solar-subsidy-scheme-in-ayodhya-varanasi-and-gorakhpur/articleshow/111365166.cms",
+        "articleSection": "Industry",
+        "articleBody": "Lucknow: The Uttar Pradesh government will launch an awareness campaign to promote the Centre's 'PM Surya Ghar Yojana' -- a rooftop solar subsidy scheme -- in Ayodhya, Varanasi, and Gorakhpur. The new initiative will add to the state's ongoing programmes and schemes to boost generation and use of solar energy.  The campaign will be based on the Integrated Marketing Communications (IMC) module. In line with Chief Minister Yogi Adityanath's vision, the Uttar Pradesh New and Renewable Energy Agency (UPNEDA) has begun implementing the action plan, according to an official statement.  The state government has allocated Rs 2 crore for the two months long campaign and started the process of roping in an agency to manage and execute the initiative.  Initially, UPNEDA will run the campaign in three major cities, including Ayodhya, Varanasi, and Gorakhpur, to increase public awareness and acceptance of the Pradhan Mantri Surya Ghar Yojana and boost the number of beneficiaries under this scheme, the statement said.  The promotional activities will include displaying banners, installing billboards at strategic locations, setting up booth camps, and distributing pamphlets during various events at universities, colleges, and schools.  Besides, UPNEDA will also use radio and newspaper advertisements in Ayodhya, Gorakhpur, and Varanasi.  Ayodhya and Varanasi are already being developed as solar cities, and this comprehensive campaign will now pave the way for increased awareness and promotion of solar energy in Gorakhpur as well, the statement said.  According to officials, a solar city could fulfil at least 10 per cent of its energy demand through solar power.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111365166,resizemode-4,width-1200,height-900,imgsize-89302,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
     "111337475": {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
@@ -4004,7 +4204,7 @@
             "name": "Economic Times",
             "logo": {
                 "@type": "ImageObject",
-                "url": "",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
                 "width": 600,
                 "height": 60
             }
@@ -13725,7 +13925,7 @@
             "name": "Economic Times",
             "logo": {
                 "@type": "ImageObject",
-                "url": "",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
                 "width": 600,
                 "height": 60
             }
@@ -18175,7 +18375,7 @@
             "name": "Economic Times",
             "logo": {
                 "@type": "ImageObject",
-                "url": "",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
                 "width": 600,
                 "height": 60
             }
@@ -24182,7 +24382,7 @@
             "name": "Economic Times",
             "logo": {
                 "@type": "ImageObject",
-                "url": "",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
                 "width": 600,
                 "height": 60
             }
@@ -37273,7 +37473,7 @@
             "name": "Economic Times",
             "logo": {
                 "@type": "ImageObject",
-                "url": "",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
                 "width": 600,
                 "height": 60
             }
@@ -38173,6 +38373,49 @@
         "image": {
             "@type": "ImageObject",
             "url": "https://img.etimg.com/thumb/msid-83991830,resizemode-4,width-1200,height-900,imgsize-319310,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111410500": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "karnataka solar park",
+            "solar park",
+            "Karnataka",
+            "renewable energy",
+            "Madhugiri",
+            "Tumakuru",
+            "PM KUSUM",
+            "tehri hydro development corporation india limited"
+        ],
+        "headline": "Karnataka to set up solar park in Madhugiri, boost renewable energy production: Minister K J George",
+        "description": "The Karnataka government plans to establish a solar park in Madhugiri taluk, following the success of the Pavagada Solar park in Tumakuru. The park will be developed in a strategic partnership with Tehri Hydro Development Corporation India Limited (THDCIL), owned by the central government. The project aims to enhance environmental stewardship and energy security in the state.",
+        "datePublished": "2024-07-01T20:29:00+05:30",
+        "dateModified": "2024-07-01T20:33:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/karnataka-to-set-up-solar-park-in-madhugiri-boost-renewable-energy-production-minister-k-j-george/articleshow/111410500.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/karnataka-to-set-up-solar-park-in-madhugiri-boost-renewable-energy-production-minister-k-j-george/articleshow/111410500.cms",
+        "articleSection": "Industry",
+        "articleBody": "After the success of Pavagada Solar park in Tumakuru, the Karnataka government is planning to establish yet another solar park in the district, this time in Madhugiri taluk. The initiative was announced by Energy Minister K J George in Tumakuru.  The upcoming project will not only scale up Karnataka's clean energy infrastructure, but also holds the potential to significantly enhance environmental stewardship and energy security in the state,  he said. Madhugiri Solar Park will be developed in a strategic partnership with Tehri Hydro Development Corporation India Limited (THDCIL), owned by the central government.  This partnership aims to leverage local expertise and resources to identify suitable land parcels essential for advancing Karnataka's renewable energy agenda, instilling confidence in the project's success,  added George. The energy minister was visiting Tumakuru to review the implementation of the Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan (PM KUSUM) project at the district commissioner's office.  The subsidy for free electricity for farmers' pump sets is increasing annually. Despite efforts to regularise farmers' pump sets, the issue persists, leading to transformer damage and power supply disruptions due to illegal connections. In this context, we are prioritising the KUSUSM B and Kusum C projects, encouraging the adoption of solar pump sets,  George added. Outlining the details of the Kusum C project, the minister said,  To generate 1 MW of electricity under the Kusum C project, 4-5 acres of land are needed. If government land is used, it will be provided free of cost and leased for 25 years. Lessees will pay Rs. 25,000 per acre annually during the lease period. These funds will be deposited in the district collector's account and allocated to develop local anganwadis, schools, and panchayats.  The PM KUSUM initiative, a joint effort of the central and the state governments, was launched to address farmers' energy needs and make agriculture more sustainable. Accelerating transformative energy security for Indian agriculture involves implementing comprehensive strategies to ensure reliable and sustainable energy sources for farmers, said Gaurav Gupta, additional chief secretary, energy department of Karnataka, during the review meeting.  We will select land around substations for this initiative. So far, 27 substations have been chosen, with an additional 12 substations to be selected in the next phase for Tumakuru district. Work has already begun in some substations, and surveys have been conducted. The aim is to benefit farmers with locally generated electricity,  added Gupta. The meeting was also attended by state Home Minister G Parameshwar, who is also the district in-charge minister, cooperation minister K N Rajanna, state government special representative in Delhi T B Jayachandra, MLA K Shadakshari, BESCOM managing director Mahantesh Bilagi and Tumakuru district collector Shubha Kalyan.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111410500,resizemode-4,width-1200,height-900,imgsize-69376,overlay-economictimes/photo.jpg",
             "width": 1200,
             "height": 900
         },
