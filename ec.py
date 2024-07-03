@@ -32,6 +32,8 @@ class ECScrapper:
         """Initialize Scrapper object and create scraper directory"""
         self.scrpdir = Path("./dump/scrapper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
+        self.ecdir = self.scrpdir / "ec"
+        self.ecdir.mkdir(exist_ok=True, parents=True)
 
     def _get_article_meta(self, soup: BeautifulSoup) -> Optional[dict[str, str]]:
         """
