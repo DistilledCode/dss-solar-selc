@@ -38433,5 +38433,145 @@
                 "height": 60
             }
         }
+    },
+    "111467671": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "solar tender",
+            "concentrated solar",
+            "thermal capacity",
+            "SECI",
+            "renewable energy",
+            "solar energy",
+            "India",
+            "energy storage",
+            "power solutions"
+        ],
+        "headline": "India's biggest concentrated solar tender likely this year",
+        "description": "The tender will be issued by the end of this fiscal, Gupta said. SECI is the nodal agency for implementing the government's renewable energy projects.  There have been solar thermal tenders but not of this scale,  Gupta told reporters on the sidelines of India Energy Storage Week 2024 organised by India Energy Storage Alliance.",
+        "datePublished": "2024-07-04T00:03:00+05:30",
+        "dateModified": "2024-07-04T00:15:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/indias-biggest-concentrated-solar-tender-likely-this-year/articleshow/111467671.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/indias-biggest-concentrated-solar-tender-likely-this-year/articleshow/111467671.cms",
+        "articleSection": "Industry",
+        "articleBody": "Solar Energy Corporation of India (SECI) plans to issue a 500-megawatt (MW) tender for concentrated solar thermal capacity, chairman and managing director RP Gupta said on Wednesday, in what will be the biggest such tender in the country.The tender will be issued by the end of this fiscal, Gupta said. SECI is the nodal agency for implementing the government's renewable energy projects.  There have been solar thermal tenders but not of this scale,  Gupta told reporters on the sidelines of India Energy Storage Week 2024 organised by India Energy Storage Alliance.He added that the concentrated solar thermal capacity project will be based on advanced tech and the pricing will be on a par with other round-the-clock power solutions. Industry officials noted Andhra, Gujarat, or Rajasthan as potential locations for such projects due to high solar radiation reception. 111467729Concentrated solar power technology is widely used internationally.India is aiming for 500 GW of renewable energy by 2030. Energy storage solutions are required to sustain uninterrupted supply of energy in a grid system dominated by renewable energy sources to cover periods without wind or sunshine. Storage structures are also important to decarbonise the grid. Gupta said SECI is also working on other energy storage solutions.  We are also experimenting with gravity storage and dome structure CO2 storage,  he said, adding that dome structure CO2 storage is promising.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111467671,resizemode-4,width-1200,height-900,imgsize-264270,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Kalpana Pathak"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111461755": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "SECI",
+            "renewable energy",
+            "rp gupta",
+            "rahul walawalkar",
+            "Akash Kaushik"
+        ],
+        "headline": "SECI plans 500-MW solar thermal capacity tender by FY25-end: CMD",
+        "description": "The India Energy Storage Week 2024 unveiled cutting-edge technologies like solid-state batteries and sodium ion solutions, offering Indian companies a gateway to the global battery market opportunities.",
+        "datePublished": "2024-07-03T17:29:00+05:30",
+        "dateModified": "2024-07-03T17:33:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/seci-plans-500-mw-solar-thermal-capacity-tender-by-fy25-end-cmd/articleshow/111461755.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/seci-plans-500-mw-solar-thermal-capacity-tender-by-fy25-end-cmd/articleshow/111461755.cms",
+        "articleSection": "Industry",
+        "articleBody": "New Delhi: SECI, a nodal agency for implementing government's renewable energy projects, is expected to float a tender for 500 megawatt (MW) of solar thermal capacity by the end of FY25, its Chairman and Managing Director R P Gupta said on Wednesday. This will be the first time in India that such a tender would be floated on this scale, Gupta told reporters on the sidelines of the India Energy Storage Week 2024, organised by India Energy Storage Alliance (IESA) here.   The tender is expected to be out by the end of this financial year 2024-25. There have been (solar thermal) tenders but not of this scale,  Gupta said in reply to a question on new solar thermal tenders.  The earlier tenders were small in size and their costs were also too high, he said.  The projects under the 500-MW tender will have advanced technology where steam would be generated through heat and it would also help in running turbines, he added.  Besides, the prices will be at par with other Round the Clock (RTC) solutions, Gupta said without elaborating further.  The IESW 2024 is dedicated to advancing India's adoption of energy storage, e-mobility, green hydrogen, and other clean technologies in alignment with the country's net zero goal.  Global leaders from battery manufacturing, BESS (battery energy storage system) and EV (electric vehicles) segment gathered at IESW to discuss India's roadmap for advanced battery manufacturing, opportunities and bottlenecks.  Rahul Walawalkar, President & MD, CES India & President, IESA, said that safety is a significant area where  we need to deploy new measures and technologies .  He urged the industry not to compromise on safety as India is moving towards a big vision to scale up its GWh capacity and cannot afford any mistakes.  Akash Kaushik, Founder, GoodEnough Energy, stated that the electricity industry is undergoing significant changes, with a growing need for clean, reliable, and affordable power.  This transformation demands innovative technical solutions and grid optimization strategies that can unlock new revenue streams and optimize energy usage, he added.  Anil Kumar, COO, Nash Energy, said there is a need to develop talent pool in several areas from process to equipment, and skills.  Avishek Kumar, Co-Founder and CEO, VFlowTech, suggested that incentives should be given to new technologies other than traditionally dominant Li-ion batteries.  Further, he said that any regulatory challenges to new battery technologies (differences in GST rates that impact the final battery cost) should be reviewed or made standard for all.  The IESW 2024 showcased emerging and futuristic energy storage solutions including solid-state batteries, lithium sulfur, sodium ion, and other technologies from across the globe.  The event was aimed to facilitate dialogues for Indian battery companies to explore opportunities in the global battery and energy storage market and guide the entry of foreign battery players into the Indian market.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111461755,resizemode-4,width-1200,height-900,imgsize-264270,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111451020": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "nhpc",
+            "jakson green",
+            "nhpc",
+            "solar power",
+            "kannan krishnan",
+            "rajasthan",
+            "clean energy"
+        ],
+        "headline": "Jakson Green signs pact with NHPC for supply of 400 MW solar power",
+        "description": "NHPC secures a long-term power deal to benefit discoms in a 25-year agreement with Jakson Green. The 400 MW project in Rajasthan strengthens Jakson Green's leading position, complementing its extensive 1 GW portfolio and collaborations with RUVNL, marking a significant milestone in the energy sector.",
+        "datePublished": "2024-07-03T12:05:00+05:30",
+        "dateModified": "2024-07-03T12:08:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/jakson-green-signs-pact-with-nhpc-for-supply-of-400-mw-solar-power/articleshow/111451020.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/jakson-green-signs-pact-with-nhpc-for-supply-of-400-mw-solar-power/articleshow/111451020.cms",
+        "articleSection": "Industry",
+        "articleBody": "New Delhi: New energy transition platform Jakson Green on Wednesday said it has inked a pact with state-owned NHPC for the supply of 400 MW solar power. Jakson Green has signed its first Power Purchase Agreement (PPA) with NHPC Ltd, a company statement said.  This agreement marks a significant milestone for Jakson Green, solidifying its position as a fast-growing Independent Power Producer (IPP) with a total portfolio of 1 GW under development, the statement added.   We are thrilled to embark on this agreement with NHPC, the first of many more to come. This 400 MW PPA, our largest to date, with NHPC is a monumental achievement for Jakson Green,  Kannan Krishnan, Joint Managing Director, Jakson Green Pvt Ltd said.  This new project will be located in Rajasthan and connected to the central grid, with an expected clean energy generation sufficient to power around four lakh households annually.  Contributing to the elimination of nearly 752,000 MT/year of CO2 emissions, the project will also create valuable job opportunities during construction and operation phases.  In a competitive bidding process conducted by NHPC last year for pan-India CTU connected projects, Jakson Green successfully won 400 MW capacity, securing a favorable tariff of Rs 2.53 per unit. The project is scheduled for commissioning within 24 months of signing the PPA.  The power purchased by NHPC for 25 years is provisioned for sale to discoms.  The PPA was signed between Onkar Yadav, General Manager, NHPC and Kannan Krishnan, Joint MD, Jakson Green in the presence of M K Gupta, Executive Director, NHPC and other senior dignitaries of both companies.  Building on the successful signings of PPAs with Solar Energy Corporation Of India (SECI) and Rajasthan Rajya Vidyut Utpadan Nigam Ltd (RUVNL) earlier this year, the 400 MW agreement with NHPC propels Jakson Green to a remarkable 1 GW IPP portfolio.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111451020,resizemode-4,width-1200,height-900,imgsize-361353,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
     }
 }
