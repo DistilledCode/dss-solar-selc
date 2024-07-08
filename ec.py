@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class ECScrapper:
+class ECScraper:
     EC_URL = "https://economictimes.indiatimes.com/"
     EC_LL = EC_URL + "defencelazyloadinglist/cfmid-"
     EC_CMFID_URL = {
@@ -29,8 +29,8 @@ class ECScrapper:
     }
 
     def __init__(self) -> None:
-        """Initialize Scrapper object and create scraper directory"""
-        self.scrpdir = Path("./dump/scrapper")
+        """Initialize Scraper object and create scraper directory"""
+        self.scrpdir = Path("./dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.ecdir = self.scrpdir / "ec"
         self.ecdir.mkdir(exist_ok=True, parents=True)
@@ -68,8 +68,8 @@ class ECScrapper:
         """
 
         resp = requests.get(
-            url=ECScrapper.EC_URL + url,
-            headers=ECScrapper.HEADERS,
+            url=ECScraper.EC_URL + url,
+            headers=ECScraper.HEADERS,
         )
         if resp.status_code != 200:
             print(f"[!] {resp.status_code} Error fetching article: {url}")
@@ -99,7 +99,7 @@ class ECScrapper:
         """
         article_listings = soup.find_all("li")
         if len(article_listings) == 0:
-            print("[!] Reached EOL. Scrapping Done.")
+            print("[!] Reached EOL. Scraping Done.")
             return False
 
         for element in article_listings:
@@ -159,12 +159,12 @@ class ECScrapper:
         self.ecdir = self.scrpdir / "ec"
         self.ecdir.mkdir(exist_ok=True, parents=True)
         self._load_listing(topic)
-        cmfid_url = ECScrapper.EC_CMFID_URL.get(topic)
+        cmfid_url = ECScraper.EC_CMFID_URL.get(topic)
         page_count = 0
         while True:
             page_count += 1
             requrl = cmfid_url.format(pg=page_count)
-            response = requests.get(requrl, headers=ECScrapper.HEADERS)
+            response = requests.get(requrl, headers=ECScraper.HEADERS)
             if response.status_code != 200:
                 print(
                     f"[*] [{len(self.ec_articles):>04}] URL: {response.url}\n"

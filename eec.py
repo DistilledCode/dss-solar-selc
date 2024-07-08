@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class EECScrapper:
+class EECScraper:
     HEADERS = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
         "Accept-Language": "en-US,en;q=0.5",
@@ -27,8 +27,8 @@ class EECScrapper:
     AJAX_CALL_URL = "https://energy.economictimes.indiatimes.com/ajax/call"
 
     def __init__(self) -> None:
-        """Initialize Scrapper object and create scraper directory"""
-        self.scrpdir = Path("./dump/scrapper")
+        """Initialize Scraper object and create scraper directory"""
+        self.scrpdir = Path("./dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.eecdir = self.scrpdir / "eec"
         self.eecdir.mkdir(exist_ok=True, parents=True)
@@ -217,7 +217,7 @@ class EECScrapper:
         page_count = 0
         while True:
             page_count += 1
-            print(f"[*] Scrapping page {page_count}")
+            print(f"[*] Scraping page {page_count}")
             params = self._get_pararms(page_count, topic)
             response = requests.get(
                 self.AJAX_CALL_URL,

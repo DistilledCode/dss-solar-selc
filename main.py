@@ -1,15 +1,15 @@
-from ec import ECScrapper
-from eec import EECScrapper
+from ec import ECScraper
+from eec import EECScraper
 
-ecscrapper = ECScrapper()
-ecscrapper.fetch_ec("hybrid")
-ecscrapper.fetch_ec("renewable-regulation")
-ecscrapper.fetch_ec("solar")
+ecscrap = ECScraper()
+ecscrap.fetch_ec("hybrid")
+ecscrap.fetch_ec("renewable-regulation")
+ecscrap.fetch_ec("solar")
 
-eecscrapper = EECScrapper()
-eecscrapper.fetch_articles("all-news")
-eecscrapper.fetch_articles("renewable-news")
-eecscrapper.fetch_articles("economy-news")
-eecscrapper.fetch_articles("oil-news")
-eecscrapper.fetch_articles("coal-news")
-eecscrapper.fetch_articles("power-news")
+eecscrap = EECScraper()
+eecscrap.fetch_articles("all-news")
+eecscrap.fetch_articles("renewable-news")
+eecscrap.fetch_articles("economy-news")
+eecscrap.fetch_articles("oil-news")
+eecscrap.fetch_articles("coal-news")
+eecscrap.fetch_articles("power-news")

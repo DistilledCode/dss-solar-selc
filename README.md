@@ -24,18 +24,18 @@ pre-commit install
 
 ## Usage
 
-### `ECScrapper`
+### `ECScraper`
 
-The `ECScrapper` class is designed to scrape articles from the Economic Times website. Here is an example of how to use the `ECScrapper` class to fetch articles for different topics:
+The `ECScraper` class is designed to scrape articles from the Economic Times website. Here is an example of how to use the `ECScraper` class to fetch articles for different topics:
 
 ```python
-from scrapper import ECScrapper
+from scrap import ECScraper
 
-# Create a Scrapper object
-scrapper = ECScrapper()
+# Create a Scraper object
+scrap = ECScraper()
 
 # Fetch articles for different topics
-scrapper.fetch_ec("hybrid")
-scrapper.fetch_ec("renewable-regulation")
-scrapper.fetch_ec("solar")
+scrap.fetch_ec("hybrid")
+scrap.fetch_ec("renewable-regulation")
+scrap.fetch_ec("solar")
 ```
