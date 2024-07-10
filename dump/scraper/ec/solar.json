@@ -38573,5 +38573,254 @@
                 "height": 60
             }
         }
+    },
+    "111558214": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "greenko",
+            "nabfid",
+            "solar power",
+            "renewables",
+            "renewable energy"
+        ],
+        "headline": "Greenko gets NABFID sanction for Rs 6200 cr; to prepay overseas bonds",
+        "description": "NABFID has sanctioned Rs 6200 crore from which Greenko will use to pay back foreign bond investors for bonds maturing in January and July next year, these people said on the condition of anonymity as the process for the buyback has still not started.",
+        "datePublished": "2024-07-07T20:20:00+05:30",
+        "dateModified": "2024-07-08T00:26:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/greenko-gets-nabfid-sanction-for-rs-6200-cr-to-prepay-overseas-bonds/articleshow/111558214.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/greenko-gets-nabfid-sanction-for-rs-6200-cr-to-prepay-overseas-bonds/articleshow/111558214.cms",
+        "articleSection": "Industry",
+        "articleBody": "Renewable energy company Greenko will prepay more than $1 billion of dollar bonds maturing next year through funds raised from the government backed National Bank for Financing Infrastructure and Development (NABFID) to lower overseas liabilities amid higher rates abroad, two people with direct knowledge of the impending transaction said.NABFID has sanctioned Rs 6200 crore from which Greenko will use to pay back foreign bond investors for bonds maturing in January and July next year, these people said on the condition of anonymity as the process for the buyback has still not started. From NABFID's perspective the money will be used to finance up-and-running projects across India, which is the company's mandate. These loans are structured through a unique obligator-co-obligator structure where all the 25 companies in the group lean on each other in case of any liquidity issues despite their separate balance sheets,  said one of the person's cited above.NABFID did not reply to an email seeking comment.Greenko has 7.5 gigawatts of installed solar and wind power capacity across 15 states in India. It has more than 100 projects operating in the country, most of which are through special purpose vehicles (SPV).111560075Under the loan structure, NABFID will finance these projects through a co-obligator structure, pooling all these projects together, which also helps them get a better AA credit rating locally versus an A rating if they had gone on their own.  The loan is priced in single digits. Both the structure and tenure of the loan cannot be offered by banks due to regulatory restrictions,  said the person cited above. The company can tap the funds as it needs them and the loans will be priced for a tenure starting 10 years up to 23 years.Greenko will borrow from SPVs and prepay a $500 million bond maturing in January, and another $535 million bond maturing in July 2024. Both these bonds were issued by overseas arms of the company.Greenko has been a regular in the overseas bond market, tapping the increasing demand for sustainable projects, financed by large institutional investors abroad. With the US rates remaining high for a prolonged period, the company thought it best to reduce this high costing debt and replace it with rupee debt which came at a very low cost. This is in line with the broader strategy in the market to reduce high cost overseas borrowings. Soon the process to notify bond holders and seek a buy back will begin,  said a second person directly aware of the company's plans.Greenko did not respond to an email seeking comment.Backed by Singapore\u2019s GIC Holdings Pte Ltd (52%), Abu Dhabi Investment Authority (14%), and Japan\u2019s ORIX Corp (22%), Greenko founders Mahesh Kolli and Anil Kumar Chalamalasetty have set ambitious targets to expand their renewable energy projects in India.The company is currently building a 5.2 GW integrated energy storage project in Andhra Pradesh and expects to follow similar energy projects in Karnataka, Maharashtra and Rajasthan, ET reported last year.But the company is also facing challenges. In March this year, global rating agency Fitch revised the outlook on Greenko's long-term Issuer Default Rating (IDR) to negative from stable, while affirming its rating at 'BB,' forecasting Greenko's earnings before interest tax depreciation and amortisation to net interest coverage will breach its negative sensitivity of 1.5 times in the financial year ending March 2025 before returning to the threshold. This would give the company low headroom in FY26 due to its proposed acquisition of a 60.08% stake in the 1,200MW Teesta III hydro project from the Sikkim state government, associated restoration works, and capex on a new 1.5GW solar power plant.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111558214,resizemode-4,width-1200,height-900,imgsize-189100,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Joel Rebello"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111520003": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "coal india",
+            "solar energy projects",
+            "DVC",
+            "thermal capacity",
+            "renewable energy",
+            "power plants",
+            "coal mining",
+            "battery storage",
+            "power demand",
+            "Damodar Valley Corporation",
+            "west bengal",
+            "ntpc"
+        ],
+        "headline": "DVC to invest Rs 20,000 cr in solar energy projects by 2030",
+        "description": "The Kolkata-headquartered corporation now has only 14 MW installed solar capacity and is executing a 348 MW project in association with NTPC. A 250MW/hour capacity of battery storage is also under consideration, he said.",
+        "datePublished": "2024-07-05T21:01:00+05:30",
+        "dateModified": "2024-07-05T21:03:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/dvc-to-invest-rs-20000-cr-in-solar-energy-projects-by-2030/articleshow/111520003.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/dvc-to-invest-rs-20000-cr-in-solar-energy-projects-by-2030/articleshow/111520003.cms",
+        "articleSection": "Industry",
+        "articleBody": "Kolkata: Damodar Valley Corporation (DVC) on Friday announced that it has planned to invest Rs 20,000 crore by 2030 to install nearly 4,000 MW of solar capacity, a top official said. The corporation, created for flood control and development in the Damodar Valley, envisions investment worth Rs 50,000-60,000 crore by 2030 to enhance thermal, pump storage power plants and solar energy, he said. It aims at adding nearly 10,000 MW in thermal and green energy, which will bring its total installed capacity to about 16,700 MW. Of the current 6,700 MW installed capacity of DVC, 6,540 MW is thermal.  Power demand is growing strong in the north, south, and western parts of the country. We are expanding sustainably with the right mix of thermal and renewable energy, which will keep power costs affordable. We will add 3,720 MW in thermal capacity and nearly 4,000 MW in solar by 2030,  DVC Chairman S. Suresh Kumar said during an interaction on the occasion of the 77th Foundation Day of the corporation. The Kolkata-headquartered corporation now has only 14 MW installed solar capacity and is executing a 348 MW project in association with NTPC. A 250MW/hour capacity of battery storage is also under consideration, he said. Kumar mentioned that DVC has been exempted from coal import due to its power plants' proximity to the pithead. Recently, the Union Power Ministry has extended a coal import advisory to domestic thermal plants for 4 per cent blending till October 15 to ensure adequate fuel supply during the monsoon season. DVC also plans to ramp up its captive coal mining from its Tubed block in Jharkhand with a separate railway siding for smoother evacuation.  With the dedicated railway siding for loading, we will be able to ramp up production to six million tonnes. We have proposed to the Railways that we would set up the facility at our cost. Due to current evacuation bottlenecks, our output is below two million tonnes. Captive coal is already cheaper, and if Coal India revises the price further, our coal becomes extremely affordable,  Kumar said. The maximum annual production can reach up to nine million tonnes, he said.  The current coal requirement of DVC is 28-30 million tonnes,  Kumar added. The rest of the coal demand is met from the supplies by Coal India subsidiaries. The corporation is unable to bid for a new coal block due to legal hurdles regarding a legacy case, involving a past joint venture with Bengal Emta Coal Mines, the official said. Kumar, who was the former West Bengal power secretary, stated that apart from the 4,000 MW solar power, the corporation plans to install two pump storage facilities in Logu Pahar in Jharkhand (1500 MW) and Panchet in West Bengal (1000 MW). The Panchet project is proposed to be a JV with the West Bengal government. Speaking about dues from Jharkhand, the DVC official said the old dues have come down to about Rs 1,000 crore, and the state is clearing the same.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111520003,resizemode-4,width-1200,height-900,imgsize-58300,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111473446": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "solar power generation",
+            "India",
+            "coal",
+            "electricity",
+            "power demand",
+            "renewable energy",
+            "growth",
+            "fastest pace",
+            "fossil fuel",
+            "green energy",
+            "icra"
+        ],
+        "headline": "India's solar output grows at slowest pace in six years in first half of 2024",
+        "description": "Solar power generation in the third-largest producer of electricity from the sun rose to 63.6 billion kilowatt-hours (kWh) in the first half of 2024, the data showed, up 14.7% compared with the same period last year and 18.5% in the calendar year 2023. The world's fastest growing major economy has prioritised coal to address a surge in power demand in recent years.",
+        "datePublished": "2024-07-04T08:06:00+05:30",
+        "dateModified": "2024-07-04T08:12:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/indias-solar-output-grows-at-slowest-pace-in-six-years-in-first-half-of-2024/articleshow/111473446.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/indias-solar-output-grows-at-slowest-pace-in-six-years-in-first-half-of-2024/articleshow/111473446.cms",
+        "articleSection": "Industry",
+        "articleBody": "India's solar power generation grew at the slowest pace in six years in the first half of 2024, an analysis of data from the federal grid regulator showed, as the country further stepped up reliance on coal to address surging power demand. Electricity generated from coal grew 10.4% during six months ended June 30, a review of daily load despatch data from Grid-India showed, outpacing overall power generation growth of 9.7% during the period.  Solar power generation in the third-largest producer of electricity from the sun rose to 63.6 billion kilowatt-hours (kWh) in the first half of 2024, the data showed, up 14.7% compared with the same period last year and 18.5% in the calendar year 2023. The world's fastest growing major economy has prioritised coal to address a surge in power demand in recent years, with coal-fired power output last year outpacing renewable energy output for the first time since the Paris accord in 2015. The south Asian nation's fuel use patterns since emerging from the COVID-19 pandemic have largely been in line with trends in the region, with Indonesia, Philippines, Vietnam and Bangladesh all firing up coal for generating inexpensive power. The share of the fossil fuel in power output rose to 77.1% in the first half of 2024, compared with 76.6% in the same period last year, putting it on track to rise for the fourth straight year. India expects total electricity generation during the fiscal year ended March 2025 to grow at the fastest pace in over a decade, forecast to be mainly powered by an 8.9% growth in coal-fired power output, outpacing renewable energy growth of 8.2%. Analysts expect renewable generation to grow faster from the next fiscal year, as tendering and commissioning of green energy projects have started picking up steam. Moody's unit ICRA expects renewable energy installations to rise by over a third to 25 gigawatts (GW) this fiscal year ending March 2025.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111473446,resizemode-4,width-1200,height-900,imgsize-240168,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "Reuters"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111583405": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "solar project",
+            "Godrej Electricals",
+            "rooftop solar",
+            "Madhya Pradesh",
+            "textile facility",
+            "renewable energy sector",
+            "sustainability goals",
+            "Godrej & Boyce"
+        ],
+        "headline": "Godrej Electricals commissions 12.5 MWp rooftop solar project in MP",
+        "description": "On Monday, Godrej & Boyce's business unit Godrej Electricals & Electronics announced the commissioning of a 12.5 MWp rooftop solar project for a textile facility in Madhya Pradesh. The project, spread over 1 million square feet of manufacturing sheds, is one of the three largest rooftop solar installations in India and the first in the state. It aims to provide green energy to the textile facility, leading to an estimated annual saving of 17 million kWh of power.",
+        "datePublished": "2024-07-08T19:08:00+05:30",
+        "dateModified": "2024-07-08T19:10:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/godrej-electricals-commissions-12-5-mwp-rooftop-solar-project-in-mp/articleshow/111583405.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/godrej-electricals-commissions-12-5-mwp-rooftop-solar-project-in-mp/articleshow/111583405.cms",
+        "articleSection": "Industry",
+        "articleBody": "Mumbai: Godrej & Boyce's business unit Godrej Electricals & Electronics on Monday said it has commissioned a 12.5 MWp (Megawatt peak) rooftop solar project for a textile facility in Madhya Pradesh. The solar facility is one of the three largest such projects in the country and the first in the state. Spread over 1 million square feet of large manufacturing sheds, the project will enable the textile facility to utilise green energy, resulting in an estimated annual saving of 17 million kWh of power, Godrej Electricals & Electronics said in a statement. The company is carrying out similar projects across various industries, including cement, textile, automobile, and pharma, it added. With India emerging as the third-largest solar power generator globally, the country's renewable energy sector is witnessing unprecedented growth and momentum. Recognising the diverse energy needs and sustainability goals of its clients, Godrej Electricals & Electronics said it is doubling down on its efforts to provide innovative and tailored solar rooftop solutions.  ...As the country triples its renewable capacity by 2030, we see such innovative solutions being pivotal in decarbonising energy-intensive sectors while driving job creation and technological leadership,  said Raghavendra Mirji, Executive Vice President & Business Head, Godrej Electricals & Electronics, Godrej & Boyce.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111583405,resizemode-4,width-1200,height-900,imgsize-6576,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111572146": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "L&T shares",
+            "L&T",
+            "Middle East",
+            "renewable energy",
+            "solar power projects",
+            "Gigawatt scale",
+            "Solar PV plants",
+            "Larsen & Toubro",
+            "s n subrahmanyan",
+            "BSE"
+        ],
+        "headline": "L&T bags solar power projects in Middle East",
+        "description": "L&T's renewable arm won orders for two 3.5 GW Solar PV plants in the Middle East. Projects include grid interconnections with soon-to-start construction, valued at Rs 10,000-15,000 crore. Boosting its green portfolio, L&T is a USD 27 billion multinational. Shares traded at Rs 3,600, down 0.78% on BSE, noted by Chairman S N Subrahmanyan.",
+        "datePublished": "2024-07-08T12:56:00+05:30",
+        "dateModified": "2024-07-08T12:58:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/lt-bags-solar-power-projects-in-middle-east/articleshow/111572146.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/lt-bags-solar-power-projects-in-middle-east/articleshow/111572146.cms",
+        "articleSection": "Industry",
+        "articleBody": "Larsen & Toubro on Monday said its renewable energy arm has bagged two orders from a leading developer in the Middle East to build two Gigawatt scale Solar PV plants.  The renewable arm of Larsen & Toubro (L&T) has finalised mega orders with a leading developer in the Middle East to build two Gigawatt scale Solar PV plants,  the company said in a regulatory filing.  L&T did not reveal the financial details of the contract, but as per its project classification, the value of a mega order ranges between Rs 10,000 to Rs 15,000 crore.  The plants will have a cumulative capacity of 3.5 GW.  The scope of the orders also includes grid interconnections encompassing pooling substations and overhead transmission lines.  Detailed engineering and initial construction work are expected to commence shortly, the filing added.   These orders are welcome additions to our green portfolio, as we build the company of the future with next-generation technologies,  L&T Chairman & Managing Director S N Subrahmanyan said.  Larsen & Toubro is a USD 27 billion Indian multinational enterprise engaged in engineering, procurement, and construction (EPC) projects, hi-tech manufacturing and services, operating across multiple geographies.  Shares of the company were trading at Rs 3,600 apiece, down 0.78 per cent on the BSE.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111572146,resizemode-4,width-1200,height-900,imgsize-240168,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
     }
 }

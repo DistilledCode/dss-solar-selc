@@ -235,6 +235,6 @@ class EECScraper:
                 print("[!] Reached last page, stopping.")
                 break
             if self._get_articles(resp_json) is None:
-                return
+                break
             self._dump_listing(topic)
         self._dump_listing(topic)

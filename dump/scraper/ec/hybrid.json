@@ -44128,5 +44128,221 @@
             "name": "Economic Times",
             "productID": "prime.economictimes.indiatimes.com:prime"
         }
+    },
+    "111495906": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "renewable energy",
+            "Green Hydrogen Mission",
+            "testing facilities",
+            "infrastructure",
+            "National Institute of Solar Energy",
+            "ministry of new and renewable energy",
+            "national green hydrogen mission"
+        ],
+        "headline": "Norms issued for funding of testing facilities, infra for National Green Hydrogen Mission",
+        "description": "The Ministry of New and Renewable Energy has released guidelines to fund testing facilities and infrastructure for the National Green Hydrogen Mission, aiming to develop standards and regulatory frameworks. The initiative will address gaps in existing testing facilities for green hydrogen and its derivatives, and support the establishment and enhancement of new testing facilities to ensure safe operations. With a budget of Rs 200 crore until 2025-26, the scheme is part of the Rs 19,744 crore allocated for the mission, with the National Institute of Solar Energy overseeing implementation.",
+        "datePublished": "2024-07-05T00:37:00+05:30",
+        "dateModified": "2024-07-05T00:41:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/norms-issued-for-funding-of-testing-facilities-infra-for-national-green-hydrogen-mission/articleshow/111495906.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/norms-issued-for-funding-of-testing-facilities-infra-for-national-green-hydrogen-mission/articleshow/111495906.cms",
+        "articleSection": "Industry",
+        "articleBody": "The ministry of new and renewable energy has issued guidelines for funding of testing facilities, infrastructure, and institutional support for development of standards and regulatory framework under the National Green Hydrogen Mission.111397582The norms will support identification of the gaps in the existing testing facilities for components, technologies, and processes in the value chain of green hydrogen and its derivatives. It will also support creation of new testing facilities and upgradation of existing testing facilities to ensure safe and secure operations. The scheme for the measures will be implemented with a total budgetary outlay of \u20b9200 crore till the financial year 2025-26, which is a part of the Rs 19,744 crore under the mission. The National Institute of Solar Energy will be the implementation agency for the scheme. ",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111495906,resizemode-4,width-1200,height-900,imgsize-27222,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "ET Bureau"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111578315": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "Adani news",
+            "Adani Green Energy",
+            "Adani Green",
+            "Adani latest",
+            "Adani latest news",
+            "GST",
+            "Diamond Power",
+            "diamond power infrastructure",
+            "adani green energy ltd"
+        ],
+        "headline": "Diamond Power bags orders worth Rs 409 cr for supply of cables to Adani Green Energy",
+        "description": "Diamond Power Infrastructure announced on Monday that it has secured a Rs 409 crore order from Adani Green Energy for the supply of various LV/MV cables. The order, which includes GST, is expected to be fulfilled by December 2024. The company clarified that none of its promoters or related groups have any interest in this transaction, and it does not qualify as a related party transaction.",
+        "datePublished": "2024-07-08T16:08:00+05:30",
+        "dateModified": "2024-07-08T16:20:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/diamond-power-bags-orders-worth-rs-409-cr-for-supply-of-cables-to-adani-green-energy/articleshow/111578315.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/diamond-power-bags-orders-worth-rs-409-cr-for-supply-of-cables-to-adani-green-energy/articleshow/111578315.cms",
+        "articleSection": "Industry",
+        "articleBody": "Diamond Power Infrastructure on Monday said that it has secured an order worth Rs 409 crore for supply of cables to Adani Green Energy.  Our company has received a letter of intent from Adani Green Energy Ltd worth Rs 409 crore (inclusive GST) for supply for various LV/MV cables,  a BSE filing said.  According to the filing, the supply order has to be completed by December 2024.  None of the promoter/promoter group/group companies have any interest in the entity, Diamond Power said, adding the work doesn't fall under the ambit of related party transactions.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111578315,resizemode-4,width-1200,height-900,imgsize-8088,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
+    },
+    "111615238": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "maruti suzuki",
+            "Maruti Suzuki",
+            "hybrid vehicles",
+            "Uttar Pradesh",
+            "registration tax",
+            "strong hybrid",
+            "electric motor",
+            "plug-in vehicles",
+            "market share",
+            "Maruti Suzuki India",
+            "petrol cars"
+        ],
+        "headline": "UP gives Maruti a head 'start' in strong hybrids",
+        "description": "Maruti Suzuki India saw a nearly 7% surge in its stock price following Uttar Pradesh's decision to waive registration levies on strong hybrid and plug-in vehicles. This move, aimed at promoting greener mobility choices alongside electric cars, is expected to reduce ownership costs by 10%. Maruti, already a leader in the strong hybrid category, stands to benefit significantly. This policy shift reflects a broader trend among states to incentivize alternative technologies like biofuels and hybrids, aiming to make them more attractive and cost-effective compared to traditional petrol vehicles.",
+        "datePublished": "2024-07-10T00:17:00+05:30",
+        "dateModified": "2024-07-10T00:21:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/up-gives-maruti-a-head-start-in-strong-hybrids/articleshow/111615238.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/up-gives-maruti-a-head-start-in-strong-hybrids/articleshow/111615238.cms",
+        "articleSection": "Industry",
+        "articleBody": "Mumbai: Maruti Suzuki India surged nearly 7% Tuesday after Uttar Pradesh, the second-biggest sub-national market for cars, waived registration levies on strong hybrid and plug-in vehicles in a decision the company's chairman described as only a 'start' in the nation's journey toward promoting greener mobility choices besides pure electric cars. The start has been made. I will be surprised if it stops there,  RC Bhargava, chairman of Maruti Suzuki India, told ET.  This is the first instance of a state government not only recognising the need but also taking a concrete step toward promoting alternative technologies. This will have implications on future policies. Maruti was the biggest gainer on the Nifty, climbing 6.5% to \u20b912,807 apiece. The move is expected to reduce the cost of ownership of such vehicles by 10%. Maruti Suzuki, the country's biggest carmaker by unit sales, holds an advantage in the strong hybrid category over its peers.West Bengal also recently reduced the registration fees the state levies on CNG vehicles. Moves by these states should also help promote investments in alternative and intermediate technologies such as biofuel, ethanol and hybrids in a more cost-effective manner.  Currently, electric vehicles (EVs) in India are taxed at only 5%, whereas hybrids are taxed as high as 43%, just below the 48% tax imposed on petrol cars.For cars priced above \u20b910 lakh, Uttar Pradesh levied a registration charge equivalent to 10% of the ex-showroom prices of a model. Starting July 1, these charges have been waived, said the sales manager at a Noida-based showroom of Maruti. 111615247Uttar Pradesh levies an 8% registration charge on vehicles priced up to \u20b910 lakh, and 10% beyond this threshold. The state accounts for nearly 10% of India's total passenger vehicle (PV) market and is the largest PV market after Maharashtra.Still, sales of strong hybrid PVs in UP were only 853 units in the first quarter of FY25, constituting 0.6% of the state's total PV sales volumes, according to Vahan data. More than a dozen states offer some form of waivers on strong hybrid vehicles, albeit with eligibility caps.A 10% waiver leads to an effective price reduction of \u20b91.5 lakh to \u20b93 lakh (depending on the model and variant). Price Gap? No Longer The reduction contracts the price gap between comparable petrol models and hybrids, making the latter more attractive,  said Puneet Gupta, director of S&P Global Automotive.According to Bhargava, while no one can question the premise of reducing carbon emissions and cutting fuel import bills and EVs have been chosen for the purpose, EVs can't do the job alone.  Even in the best-case scenario, EV penetration is likely to be around 40% by 2034. The remaining 60% will still be non-electric vehicles and their volumes will be much higher than what it is today. Hybrids can be a good substitute for ICE and can help reduce the fuel import bill by a third,  he said.The reduction in registration costs will lower the acquisition prices of Maruti's strong hybrid vehicles such as the Grand Vitara and Invicto by \u20b92 lakh and \u20b93 lakh, respectively. It will reduce the break-even price for transitioning from conventional petrol vehicles to strong hybrids, accelerating their adoption.Strong hybrid vehicles generally command higher average selling prices and better pricing power. Thus, having a greater share of such vehicles in its sales mix should help expand margins at Maruti.Maruti-Toyota ComboCurrently, there are only five strong hybrid models available in the market, two of which are offered by Maruti Suzuki. Those models are also cross-badged by Toyota under different names. Honda City, meanwhile, is the only strong hybrid variant outside of the Toyota-Maruti arrangement.Maruti holds a market share of 44.6% in UP compared with 41.7% nationally. An increase in conversions from petrol to hybrids would further bolster its position in the state. Analysts expect a 7% volume growth for FY25, with total volumes to reach 2.29 million units.Strong hybrids are equipped with a combustion engine and an electric motor and they can either work together or independently based on driving conditions. During low-speed driving, the motor can power the car while the engine takes over during high-speed driving.This is unlike mild hybrid cars where the electric motor is not powerful enough to drive the car solely but provides intermittent bursts of energy when required. In the case of plug-in hybrids, the motor is the main power source while the combustion engine takes over when the battery discharges.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111615238,resizemode-4,width-1200,height-900,imgsize-15676,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Ashutosh Shyam and Shally Mohile"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111615431": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "reliance industries",
+            "l&t",
+            "adani group",
+            "john cockerill greenko hydrogen",
+            "electrolyser manufacturing",
+            "green hydrogen",
+            "advait infratech"
+        ],
+        "headline": "H2GO: Reliance Industries, L&T, Adani and John Cockerill to manufacture electrolysers by 2025",
+        "description": "Currently, India is reliant on the global market to source electrolysers for its green hydrogen projects. To counter this, as well as reduce the cost of green hydrogen production, the Solar Energy Corporation of India, in July 2023, issued a request for selection of electrolyser manufacturers to set up 1.5 gigawatts (GW) of capacity.",
+        "datePublished": "2024-07-10T05:30:00+05:30",
+        "dateModified": "2024-07-10T05:30:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/h2go-reliance-industries-lt-adani-and-john-cockerill-to-manufacture-by-2025/articleshow/111615431.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/h2go-reliance-industries-lt-adani-and-john-cockerill-to-manufacture-by-2025/articleshow/111615431.cms",
+        "articleSection": "Industry",
+        "articleBody": "MUMBAI: Over half the eight companies that won bids in January for electrolyser manufacturing under the production-linked incentive (PLI) scheme, have conveyed to the government that they will be able to commission their units by next year, ahead of the 2026 deadline, said people aware of the development.This will be a boost to India's green ambitions as electrolysers are essential for green hydrogen production.John Cockerill Greenko Hydrogen, L&T Electrolysers, Reliance Electrolyser Manufacturing and Adani New Industries see their manufacturing units ready by 2025. Most of the allottees will be able to commission their facilities much ahead of the deadline and have conveyed this to the government,  said a senior government official. Jindal India, Ohmium Operations, Advait Infratech and homiHydrogen are others that won bids.Companies mentioned above didn't respond to queries.Electrolysers split water into oxygen and hydrogen using electricity - a process known as electrolysis. Green hydrogen is a gas made by electrolysers using power from renewable energy sources and is essential for decarbonising industries.Currently, India is reliant on the global market to source electrolysers for its green hydrogen projects. To counter this, as well as reduce the cost of green hydrogen production, the Solar Energy Corporation of India, in July 2023, issued a request for selection of electrolyser manufacturers to set up 1.5 gigawatts (GW) of capacity.Prior Tie-upsIndustry players said the current price of an electrolyser in the global market is $600 (Rs 50,000) per kilowatt (kW). Through the PLI scheme, this price will be brought down to $564-570 (Rs 47,000) in India. However, an electrolyser in China is still cheaper at $400 (Rs 33,000) per kW. Electrolyser manufacturers are projected to achieve a 7-10% reduction in total system costs for the first five years, with Rs 2,960/kW ($36/kW) being the average annual realisable base incentive,  according to a report by the Institute for Energy Economics and Financial Analysis. 111615502 Most of us who won the bids had prior tie-ups with electrolyser technology companies,  said an executive at one of the participating companies.  Some had even secured technology licence agreements before participating in the tender, so we will be able to launch our electrolysers before the deadline. While Greenko partnered with John Cockerill, a global leader in electrolyser manufacturing, Reliance Industries partnered with Danish company Stiesdal for the development and manufacturing of hydrogen electrolysers. Reliance has also entered into a technology licensing agreement with Norway's Nel ASA for its alkaline electrolysers in India.L&T commissioned its first indigenously manufactured hydrogen electrolyser at the green hydrogen plant in Hazira, Gujarat on March 1. With a power capacity of 1 MW (expandable to 2 MW), the electrolyser is equipped with two stacks and an electrolyser processing unit that's indigenously manufactured and assembled. The company used alkaline electrolyser technology from McPhy Energy, France.Adani New Industries has tied up with multiple technology partners to build its facility. Ohmium has been operating an electrolyser manufacturing plant since 2021.  With lower cost of electrolysers and India's low-cost renewable electricity, India's green hydrogen production could become competitive with other fuels,  said the company official cited above.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111615431,resizemode-4,width-1200,height-900,imgsize-729280,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Kalpana Pathak"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
     }
 }
