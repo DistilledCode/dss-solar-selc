@@ -31244,5 +31244,172 @@
             "name": "Economic Times",
             "productID": "prime.economictimes.indiatimes.com:prime"
         }
+    },
+    "111652783": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "Budget 2024",
+            "Budget",
+            "battery recycling",
+            "EVs",
+            "lithium-ion batteries",
+            "India's transport sector",
+            "e-waste",
+            "Recyclekaro",
+            "net-zero emissions goal",
+            "Budget expectations"
+        ],
+        "headline": "Budget expectations & India's e-waste recycling journey: Insights from Recyclekaro's founder Rajesh Gupta",
+        "description": "Rajesh Gupta, founder of Recyclekaro, discusses India's reliance on imported battery cells for EVs due to a lack of domestic mineral reserves. Recyclekaro focuses on recycling retired batteries to extract critical metals like cobalt and lithium, supporting India's decarbonisation goals. Gupta hopes the Budget 2024 will include subsidies for the sale of recycled materials to boost sustainability efforts in the sector.",
+        "datePublished": "2024-07-11T12:02:00+05:30",
+        "dateModified": "2024-07-11T12:04:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/budget-expectations-indias-e-waste-recycling-journey-insights-from-recyclekaros-founder-rajesh-gupta/articleshow/111652783.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/budget-expectations-indias-e-waste-recycling-journey-insights-from-recyclekaros-founder-rajesh-gupta/articleshow/111652783.cms",
+        "articleSection": "Industry",
+        "articleBody": "The decarbonisation of India\u2019s transport sector hinges on the successful uptake of EVs. However, the country's reliance on imported battery cells is risky due to its lack of domestic mineral reserves like lithium, cobalt, and nickel. To reduce these risks and enhance material security, India must focus on recycling retired batteries to extract and reuse valuable materials, thus reducing e-waste and supporting its net-zero emissions goal. Rajesh Gupta, founder and director of Recyclekaro, spoke to KumKum Dasgupta about India\u2019s waste and recycling challenges, especially at a time when the first generation of EV batteries is nearing the end of their life.Tell us a little bit about Recyclekaro.Recyclekaro started in 2010. The idea was born soon after I finished my engineering college, with the aim of helping mitigate climate change. We launched a campaign called the Clean Earth Campaign in 2010. In 2013, we set up our first e-waste dismantling plant. Initially, it was just a dismantling plant where we used to dismantle electronics, remove waste metals, plastics, and circuit boards, and then sell them to other people.Since 2015, we have been extracting metals, including precious metals, from e-waste. This is where our journey in hydrometallurgy began. Once we started extracting metals, we realised a new form of waste\u2014lithium-ion batteries\u2014which contain critical metals like cobalt and lithium.In 2020, we set up our first pilot plant. Initially capable of extracting just 5 metric tons of cobalt per month, our plant can handle around 2,100 metric tons of batteries per annum. We are already in the process of expanding, and soon it will reach 4,200 metric tons per annum.How do you source e-waste?We have established a network in major cities. For instance, in Hyderabad and Bangalore, we have our own centres. For other locations, we collaborate with logistics partners, small aggregators, dismantling companies, and scrap vendors who collect on our behalf.Battery recycling mitigates environmental impact and supports India's transition to clean energy. Critical minerals such as cobalt and lithium are extracted from these batteries through processes like hydrometallurgy.Once these precious metals are extracted, they are sold to refining companies, which further process them into nanoparticles. These materials then find applications in various industries, such as electronics and high-value lubricants. Currently, cobalt is used in industries such as the pigment industry.As of now, all our recovered materials were previously imported. Once battery manufacturers establish themselves in India, they will source these materials domestically from us.How are the critical minerals extracted? Is this your homegrown system?Our critical minerals are extracted using a homegrown, in-house technology based on hydrometallurgy. This process has been meticulously tweaked and refined according to our requirements and comprehensive analysis.What are your and the sector\u2019s expectations from the budget?We hope the budget will include subsidies for the sale of recycled materials. Such support would greatly benefit our sector and encourage further innovation and sustainability efforts.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111652783,resizemode-4,width-1200,height-900,imgsize-53870,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Person",
+            "name": "KumKum Dasgupta"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111640442": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "rec limited",
+            "rec loan",
+            "rec green loan",
+            "green loan",
+            "power sector"
+        ],
+        "headline": "REC raises 31.96 billion Japanese yen through 5-year green loan",
+        "description": "The loan, which is equivalent to $200 million, will be used to finance eligible green projects in India, REC said in a statement.",
+        "datePublished": "2024-07-10T21:21:00+05:30",
+        "dateModified": "2024-07-10T21:21:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/rec-raises-31-96-billion-japanese-yen-through-5-year-green-loan/articleshow/111640442.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/rec-raises-31-96-billion-japanese-yen-through-5-year-green-loan/articleshow/111640442.cms",
+        "articleSection": "Industry",
+        "articleBody": "MUMBAI: Power sector financier REC Limited has raised 31.96 billion Japanese yen through a 5-year green loan, with the transaction being conducted from Deutsche Bank\u2019s Gift City branch.The loan, which is equivalent to $200 million, will be used to finance eligible green projects in India, REC said in a statement.\u201cThis successful transaction is in line with REC\u2019s commitment to enhance its green energy financing and sustainable projects capabilities as well as the global community\u2019s support for sustainable development projects in India,\u201d said Vivek Kumar Dewangan, CMD, REC.The transaction marked one of the first yen-denominated green loan transactions for Deutsche Bank through its Gift City branch. \u201cOur collaboration with REC underscores our steadfast commitment to advancing environmentally responsible initiatives and promoting sustainable financing within India,\u201d said Kaushik Shaparia, CEO, Deutsche Bank Group, India said.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111640442,resizemode-4,width-1200,height-900,imgsize-75012,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "ET Bureau"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
+    },
+    "111627595": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "rajasthan budget",
+            "solar energy",
+            "diya kumari",
+            "budget 2024",
+            "rajasthan solar policy"
+        ],
+        "headline": "Rajasthan Budget: State FM Diya Kumari makes four big announcements to promote solar energy",
+        "description": "Rajasthan Finance Minister Diya Kumari announces significant solar energy initiatives in state budget, such as model solar villages, 2 MW solar plant, and solar-powered government offices. The budget aims to cater to all sections of society.",
+        "datePublished": "2024-07-10T12:52:00+05:30",
+        "dateModified": "2024-07-10T12:52:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/rajasthan-budget-state-fm-diya-kumari-makes-four-big-announcements-to-promote-solar-energy/articleshow/111627595.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/rajasthan-budget-state-fm-diya-kumari-makes-four-big-announcements-to-promote-solar-energy/articleshow/111627595.cms",
+        "articleSection": "Industry",
+        "articleBody": "Rajasthan Finance Minister and state Deputy Chief Minister Diya Kumari today presented the state budget in which she made four big announcements to promote solar energy in the state.Among the announcements include Energy Express Home Reforms. Besides, the state is planning to create model solar village in each district of the state. The FM has also proposed a plan to build 2 MW decentralised solar plant.In the Rajasthan budget, Diya Kumari also announced that all government offices will be connected with solar energy.Earlier on Tuesday, State Finance Minister Diya Kumari said that the budget has been prepared while keeping all the sections in mind. A double-engine government has been formed in the state, so we will try our best to live up to the expectations of the people. Good work has been done on the budget. There are big announcements for every section,  she said.It may be noted that the Rajasthan Budget comes at a time when the BJP lost 11 out of 25 seats in the Lok Sabha elections and thus it is being hoped that the announcements will be done keeping in mind the upcoming by-elections to five seats.Moreover, Rajasthan Minister Kanhaiya Lal Choudhary spoke on the upcoming budget and said,  A bill will be introduced to make sure that the water being used is recycled in the same ratio. A bill will also be introduced to ensure that water being used for purposes like cleaning is STP-treated.  To increase awareness among the public to save water, campaigns will be launched, brand ambassadors will be appointed. Rajasthan CM Bhajan Lal Sharma has set up a target of planting 7 crore plants,  he added.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111627595,resizemode-4,width-1200,height-900,imgsize-264270,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "ET Online"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "isAccessibleForFree": "https://schema.org/False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "https://schema.org/False",
+            "cssSelector": ".paywall"
+        },
+        "isPartOf": {
+            "@type": [
+                "CreativeWork",
+                "Product"
+            ],
+            "name": "Economic Times",
+            "productID": "prime.economictimes.indiatimes.com:prime"
+        }
     }
 }

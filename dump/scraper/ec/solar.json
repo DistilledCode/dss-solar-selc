@@ -38822,5 +38822,47 @@
                 "height": 60
             }
         }
+    },
+    "111664174": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "inLanguage": "en",
+        "keywords": [
+            "hindustan zinc",
+            "vedanta",
+            "Hindustan Zinc",
+            "Serentica",
+            "solar",
+            "Vedanta group",
+            "renewable energy"
+        ],
+        "headline": "Hindustan Zinc gets power supply from Serentica 180 MW solar project",
+        "description": "Vedanta's Hindustan Zinc now uses 450 MW from Serentica Renewables in Rajasthan, supplementing its 40.70 MW solar capacity. Aiming at reducing 0.45 million tonnes CO2, sustainability, and decarbonizing, this step coincides with Global Energy Independence Day. Phase 1 in Bikaner exemplifies Serentica's clean energy. Hindustan Zinc is the worlds second-largest zinc producer.",
+        "datePublished": "2024-07-11T18:01:00+05:30",
+        "dateModified": "2024-07-11T18:03:00+05:30",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/hindustan-zinc-gets-power-supply-from-serentica-180-mw-solar-project/articleshow/111664174.cms",
+        "mainEntityOfPage": "https://economictimes.indiatimes.com/industry/renewables/hindustan-zinc-gets-power-supply-from-serentica-180-mw-solar-project/articleshow/111664174.cms",
+        "articleSection": "Industry",
+        "articleBody": "New Delhi: Vedanta group firm Hindustan Zinc on Thursday said it has started receiving power supply from Serentica Renewables. The renewable energy is being used for Hindustan Zinc's operational business units in Rajasthan.   On Global Energy Independence Day, Hindustan Zinc... announced the commencement of the first phase of renewable energy integration from Serentica Renewables,  the Vedanta group firm said in a statement.  Hindustan Zinc said it has entered into an agreement with Serentica for the supply of 450 MW power round-the-clock.  While Hindustan Zinc has existing captive solar power capacity of 40.70 MW of solar power and depends on conventional fuel sources for the rest of its power requirement, this renewable power from Serentica will increase the quantum of renewables in the company's overall energy mix, as per the statement.  This marks a significant milestone in its ongoing commitment to sustainability and clean energy integration, the statement said, adding that this initiative aims to annually reduce about 0.45 million tonnes of CO2 emissions.   This project will not only reduce our dependency on conventional fuels and minimise our total environmental footprint but also aid our transformation towards decarbonizing our operations, paving the way for a fully sustainable future,  Hindustan Zinc CEO Arun Misra said.   The successful and ahead-of-schedule commissioning of Phase 1 (solar) in Bikaner exemplifies Serentica's commitment to accelerating India's clean energy transformation,  Akshay Hiranandani, CEO of Serentica Renewables, said.  Hindustan Zinc Ltd is the world's second-largest integrated zinc producer and the third-largest silver producer.  Serentica provides renewable energy through a combination of solar, wind, energy storage and balancing solutions.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://img.etimg.com/thumb/msid-111664174,resizemode-4,width-1200,height-900,imgsize-361211,overlay-economictimes/photo.jpg",
+            "width": 1200,
+            "height": 900
+        },
+        "author": {
+            "@type": "Thing",
+            "name": "PTI"
+        },
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Economic Times",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                "width": 600,
+                "height": 60
+            }
+        }
     }
 }
