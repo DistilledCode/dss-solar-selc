@@ -1,0 +1,139 @@
+{
+    "68676052.cms": {
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "inLanguage": "en",
+            "keywords": [
+                "kuwait",
+                "India-Arab Relations",
+                "suresh prabhu",
+                "Kuwait News Agency",
+                "Food security",
+                "Arab world"
+            ],
+            "headline": "India, Arab World working towards long term energy & food security goals",
+            "description": "This was underlined when Minister of Commerce and Industry and Civil Aviation Suresh Prabhu recently met Delhi-based Ambassadors of the Arab countries.",
+            "datePublished": "2019-04-01T21:20:00+05:30",
+            "dateModified": "2019-04-01T21:20:00+05:30",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-arab-world-working-towards-long-term-energy-food-security-goals/articleshow/68676052.cms",
+            "mainEntityOfPage": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-arab-world-working-towards-long-term-energy-food-security-goals/articleshow/68676052.cms",
+            "articleSection": "News",
+            "articleBody": "NEW DELHI: India and the Arab World are working towards ensuring long term energy security as well as food security for each other. This was underlined when Minister of Commerce and Industry and Civil Aviation Suresh Prabhu recently met Delhi-based Ambassadors of the Arab countries.In a statement issued by Kuwait News Agency, the country's Ambassador to India, Jassim Al-Najim (one of the co-organisers for the meet), noted that discussions with Prabhu in the presence of other ambassadors of Arab countries focused upon a number of issues pertaining to India-Arab relations including trade, investment and energy and food security.Prabhu underlined that his country is poised to become a five trillion economy by 2022 and will become a $ 10 trillion economy by 2030.He also pointed out that the ties between the two sides are based upon mutual benefit as India is seeking long-term energy security and food security ties with the Arab World.The Indian government has drawn a plan to achieve the proposed economic growth and five districts have been chosen to conduct experiments in this connection, Prabhu said.Both India and Kuwait also reviewed the results of bilateral talks held in January over enhancing cooperation in the aviation sector and the process of increasing seats for public aviation companies of both the countries which would help to increase the income substantially as the aviation sector is witnessing a 20 percent annual growth.The minister also pledged to take all necessary steps to bring about ease of doing business and make the business eco-system more conducive for attracting foreign investment.",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://img.etimg.com/thumb/msid-68676052,resizemode-4,width-1200,height-900,imgsize-132396,overlay-economictimes/photo.jpg",
+                "width": 1200,
+                "height": 900
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dipanjan Roy Chaudhury"
+            },
+            "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "Economic Times",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://img.etimg.com/thumb/msid-76939477,width-600,height-60,quality-100/economictimes.jpg",
+                    "width": 600,
+                    "height": 60
+                }
+            },
+            "isAccessibleForFree": "https://schema.org/False",
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": "https://schema.org/False",
+                "cssSelector": ".paywall"
+            },
+            "isPartOf": {
+                "@type": [
+                    "CreativeWork",
+                    "Product"
+                ],
+                "name": "Economic Times",
+                "productID": "prime.economictimes.indiatimes.com:prime"
+            }
+        }
+    },
+    "policy-100-percent-fdi-in-coal-doesnt-threaten-coal-indias-monopoly-for-now-4438711.html": {
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/",
+                        "name": "HOME"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/",
+                        "name": "NEWS"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/opinion/",
+                        "name": "OPINION"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/opinion/policy-100-percent-fdi-in-coal-doesnt-threaten-coal-indias-monopoly-for-now-4438711.html",
+                        "name": "POLICY | 100 PERCENT FDI IN COAL DOESN\u2019T THREATEN COAL INDIA\u2019S MONOPOLY. FOR NOW."
+                    }
+                }
+            ]
+        }
+    },
+    "prime-ministers-green-power-pledge-is-fine-but-its-a-tough-ask-4482081.html": {
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/",
+                        "name": "HOME"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/",
+                        "name": "NEWS"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/opinion/",
+                        "name": "OPINION"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@id": "https://www.moneycontrol.com/news/opinion/prime-ministers-green-power-pledge-is-fine-but-its-a-tough-ask-4482081.html",
+                        "name": "PRIME MINISTER\u2019S GREEN POWER PLEDGE IS FINE, BUT IT\u2019S A TOUGH ASK"
+                    }
+                }
+            ]
+        }
+    }
+}

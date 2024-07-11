@@ -24,7 +24,6 @@ repos:
             flake8-return,
             flake8-builtins,
             flake8-simplify,
-            flake8-functions,
             flake8-annotations,
             flake8-unused-arguments,
           ]
