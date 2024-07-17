@@ -4,3 +4,4 @@ pre-commit==3.7.1
 black==24.2.0
 isort==5.13.2
 flake8==7.1.0
+fastparquet==2024.5.0

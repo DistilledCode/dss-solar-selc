@@ -14,10 +14,12 @@ class DataTransformer:
         self.data = []
         self.df = None
 
+    @staticmethod
     def load_json(file_path: str) -> list | dict:
         with open(file_path, "r") as f:
             return json.load(f)
 
+    @staticmethod
     def ensure_list(value: Optional[list | str]) -> list:
         if isinstance(value, list):
             return value
@@ -27,6 +29,7 @@ class DataTransformer:
             return []
         return [str(value)]
 
+    @staticmethod
     def process_article(
         k: str,
         v: dict[str, Any],
@@ -62,6 +65,7 @@ class DataTransformer:
             print(f"Error processing article {k}: {str(e)}")
             return None
 
+    @staticmethod
     def parse_date(date_string: str) -> datetime:
         return parser.parse(date_string)
 
@@ -88,7 +92,15 @@ class DataTransformer:
     def create_dataframe(self) -> None:
         self.df = pd.DataFrame(self.data)
         self.df["key_words"] = self.df["key_words"].apply(self.ensure_list)
-        self.df["date_published"] = self.df["date_published"].apply(self.parse_date)
+
+        def parse_date(date_str: str) -> Optional[datetime.date]:
+            try:
+                return parser.parse(date_str).date()
+            except Exception:
+                return None
+
+        self.df["date_published"] = self.df["date_published"].apply(parse_date)
+        self.df["date_published"] = pd.to_datetime(self.df["date_published"])
 
     def save_to_parquet(self, output_path: str) -> None:
         self.df.to_parquet(output_path)
