@@ -66,7 +66,7 @@ class MrcmScraper:
 
     def __init__(self) -> None:
         """Initialize Scraper object and create scraper directory"""
-        self.scrpdir = Path("./dump/scraper")
+        self.scrpdir = Path("./dss-selc-dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.mcmdir = self.scrpdir / "mercom"
         self.mcmdir.mkdir(exist_ok=True, parents=True)

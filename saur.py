@@ -15,7 +15,8 @@ class SaurScraper:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0)",
         "Accept-Language": "en-US,en;q=0.5",
         "Connection": "keep-alive",
-        "Cookie": "og48dbhr=284rlsvaxwwd; a1h4i8n6=kayvqm2t6crw; fvpphomepage23=true",
+        # "Cookie": "og48dbhr=284rlsvaxwwd; a1h4i8n6=kayvqm2t6crw; fvpphomepage23=true",
+        "Cookie": "og48dbhr=284rlsvaxwwd; a1h4i8n6=kayvqm2t6crc; fvpphomepage23=true",
         "Referer": "https://www.saurenergy.com/solar-energy-news",
         "Upgrade-Insecure-Requests": "1",
         "Sec-Fetch-Dest": "document",
@@ -29,7 +30,7 @@ class SaurScraper:
 
     def __init__(self) -> None:
         """Initialize Scraper object and create scraper directory"""
-        self.scrpdir = Path("./dump/scraper")
+        self.scrpdir = Path("./dss-selc-dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.saurdir = self.scrpdir / "saur"
         self.saurdir.mkdir(exist_ok=True, parents=True)
@@ -66,10 +67,16 @@ class SaurScraper:
             )
             return {"body": None, "key_words": None}
         soup = BeautifulSoup(response.text, "html.parser")
-        paras = soup.find("div", class_="entry-content clearfix").find_all("p")
+        try:
+            paras = soup.find("div", class_="entry-content clearfix").find_all("p")
+        except Exception:
+            return {"body": None, "key_words": None}
         body = "\n".join(para.get_text() for para in paras)
         tags = soup.find("div", class_="entry-tags")
-        kws = [i.get_text() for i in tags.find_all("a")]
+        try:
+            kws = [i.get_text() for i in tags.find_all("a")]
+        except Exception:
+            kws = []
         return {"body": re.sub(r"\s+", " ", body).strip(), "key_words": kws}
 
     def _add_articles(self, response: requests.Response) -> None:

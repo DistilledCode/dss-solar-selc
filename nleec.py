@@ -100,7 +100,7 @@ class NLEECScraper:
 
         Sets up the directory structure for storing scraped data.
         """
-        self.scrpdir = Path("./dump/scraper")
+        self.scrpdir = Path("./dss-selc-dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.nleecdir = self.scrpdir / "nleec"
         self.nleecdir.mkdir(exist_ok=True, parents=True)

@@ -30,7 +30,7 @@ class ECScraper:
 
     def __init__(self) -> None:
         """Initialize Scraper object and create scraper directory"""
-        self.scrpdir = Path("./dump/scraper")
+        self.scrpdir = Path("./dss-selc-dump/scraper")
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.ecdir = self.scrpdir / "ec"
         self.ecdir.mkdir(exist_ok=True, parents=True)
@@ -83,7 +83,7 @@ class ECScraper:
             print(repr(script_tag.string))
             raise
         headline = data.get("headline", "Headline DNE")
-        print(f"[*] [{len(self.ec_articles)+1}] {headline}")
+        print(f"[*] [{len(self.ec_articles) + 1}] {headline}")
         return data
 
     def _get_article_listings(self, soup: BeautifulSoup) -> bool:
