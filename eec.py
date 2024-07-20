@@ -7,6 +7,8 @@ from typing import Any, Optional
 import requests
 from bs4 import BeautifulSoup
 
+from custom_network import PROXIES, USE_SOCKS
+
 
 class EECScraper:
     HEADERS = {
@@ -109,7 +111,7 @@ class EECScraper:
         from the JSON-LD script tag, and adds it to the article's data.
         """
         url = self.eec_articles[article_id]["url"]
-        response = requests.get(url)
+        response = requests.get(url, proxies=PROXIES if USE_SOCKS is True else None)
         if response.status_code != 200:
             print(f"[!] {response.status_code} {url=}")
             return
@@ -223,6 +225,7 @@ class EECScraper:
                 self.AJAX_CALL_URL,
                 params=params,
                 headers=self.HEADERS,
+                proxies=PROXIES if USE_SOCKS is True else None,
             )
             if response.status_code != 200:
                 print(

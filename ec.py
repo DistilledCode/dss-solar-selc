@@ -6,6 +6,8 @@ from typing import Any, Optional
 import requests
 from bs4 import BeautifulSoup
 
+from custom_network import PROXIES, USE_SOCKS
+
 
 class ECScraper:
     EC_URL = "https://economictimes.indiatimes.com/"
@@ -70,6 +72,7 @@ class ECScraper:
         resp = requests.get(
             url=ECScraper.EC_URL + url,
             headers=ECScraper.HEADERS,
+            proxies=PROXIES if USE_SOCKS is True else None,
         )
         if resp.status_code != 200:
             print(f"[!] {resp.status_code} Error fetching article: {url}")
@@ -164,7 +167,11 @@ class ECScraper:
         while True:
             page_count += 1
             requrl = cmfid_url.format(pg=page_count)
-            response = requests.get(requrl, headers=ECScraper.HEADERS)
+            response = requests.get(
+                requrl,
+                headers=ECScraper.HEADERS,
+                proxies=PROXIES if USE_SOCKS is True else None,
+            )
             if response.status_code != 200:
                 print(
                     f"[*] [{len(self.ec_articles):>04}] URL: {response.url}\n"

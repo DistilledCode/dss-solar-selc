@@ -8,6 +8,7 @@ from typing import Any, Generator, Iterable, Union
 import requests
 from bs4 import BeautifulSoup
 
+from custom_network import PROXIES, USE_SOCKS
 from eec import EECScraper
 
 
@@ -219,7 +220,10 @@ class NLEECScraper:
 
         article_id = article_url.split("/")[-1]
         try:
-            response = requests.get(article_url)
+            response = requests.get(
+                article_url,
+                proxies=PROXIES if USE_SOCKS is True else None,
+            )
         except Exception:
             self.faulty_ids.append(article_url)
             return
@@ -331,7 +335,10 @@ class NLEECScraper:
             self.nletters[frmt_date] = {i[7:]: set() for i in self.CATEGORIES}
             print(f"[*] Scrapping for {frmt_date}")
             nl_url = NLEECScraper.NL_BASE.format(date=frmt_date)
-            response = requests.get(url=nl_url)
+            response = requests.get(
+                url=nl_url,
+                proxies=PROXIES if USE_SOCKS is True else None,
+            )
             if response.status_code != 200:
                 print(f"[*] [{frmt_date}] {response.status_code} {nl_url}")
                 continue
