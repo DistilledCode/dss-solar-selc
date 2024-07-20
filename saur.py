@@ -121,10 +121,16 @@ class SaurScraper:
         self._load_listing()
         for ind, (k, v) in enumerate(self.saur_articles.items(), start=1):
             if v.get("body") is not None:
-                print(f"[*] [{ind:>05}] Body for {k} already exist.")
+                print(
+                    f"[*] [{ind:>05}/{len(self.saur_articles):>05}]"
+                    f" Body for {k} already exist."
+                )
                 continue
             self.saur_articles[k] |= self._get_body(v["url"])
-            print(f"[*] [{ind:>05}] fetched body for {k}")
+            print(
+                f"[*] [{ind:>05}/{len(self.saur_articles):>05}]"
+                f" fetched body for {k}"
+            )
             self._dump_listing(verbose=False)
         self._dump_listing(verbose=False)
 
