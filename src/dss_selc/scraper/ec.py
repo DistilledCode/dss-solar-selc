@@ -1,12 +1,11 @@
 import json
 from json import JSONDecodeError
-from pathlib import Path
 from typing import Any, Optional
 
 import requests
 from bs4 import BeautifulSoup
 
-from custom_network import PROXIES, USE_SOCKS
+from dss_selc.utils import DUMP_PATH, PROXIES, USE_SOCKS
 
 
 class ECScraper:
@@ -32,7 +31,7 @@ class ECScraper:
 
     def __init__(self) -> None:
         """Initialize Scraper object and create scraper directory"""
-        self.scrpdir = Path("./dss-selc-dump/scraper")
+        self.scrpdir = DUMP_PATH / "scraper"
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.ecdir = self.scrpdir / "ec"
         self.ecdir.mkdir(exist_ok=True, parents=True)

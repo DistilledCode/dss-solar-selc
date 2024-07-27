@@ -2,14 +2,13 @@ import json
 import re
 import time
 from datetime import datetime, timedelta
-from pathlib import Path
 from typing import Any, Generator, Iterable, Union
 
 import requests
 from bs4 import BeautifulSoup
 
-from custom_network import PROXIES, USE_SOCKS
-from eec import EECScraper
+from dss_selc.scraper.eec import EECScraper
+from dss_selc.utils import DUMP_PATH, PROXIES, USE_SOCKS
 
 
 class SetEncoder(json.JSONEncoder):
@@ -101,7 +100,7 @@ class NLEECScraper:
 
         Sets up the directory structure for storing scraped data.
         """
-        self.scrpdir = Path("./dss-selc-dump/scraper")
+        self.scrpdir = DUMP_PATH / "scraper"
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.nleecdir = self.scrpdir / "nleec"
         self.nleecdir.mkdir(exist_ok=True, parents=True)
@@ -298,15 +297,24 @@ class NLEECScraper:
             for article_url in articles:
                 article_id = article_url.split("/")[-1]
                 if article_id in self.eec_articles:
-                    print(f"[!] {article_id} already scrapped using NLEECScraper")
+                    print(
+                        f"\r[!] {article_id} already scraped using NLEECScraper",
+                        end="",
+                    )
                     continue
                 if article_id in scraper.eec_articles:
-                    print(f"[!] {article_id} already scrapped using EECScraper")
+                    print(
+                        f"\r[!] {article_id} already scraped using EECScraper",
+                        end="",
+                    )
                     continue
                 if article_id in self.faulty_ids:
-                    print(f"[!] {article_id} is a faulty id, skipping.")
+                    print(
+                        f"\r[!] {article_id} is a faulty id, skipping.",
+                        end="",
+                    )
                     continue
-
+                print()
                 self._get_details(article_url)
                 count += 1
                 if count % 10 == 0:

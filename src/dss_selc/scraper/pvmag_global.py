@@ -1,6 +1,5 @@
 import json
 import re
-from pathlib import Path
 from time import sleep
 from typing import Optional
 from uuid import NAMESPACE_DNS, uuid5
@@ -8,10 +7,10 @@ from uuid import NAMESPACE_DNS, uuid5
 import requests
 from bs4 import BeautifulSoup
 
-from custom_network import PROXIES, USE_SOCKS
+from dss_selc.utils import DUMP_PATH, PROXIES, USE_SOCKS
 
 
-class PvMagUSAScraper:
+class PvMagGlobalScraper:
     HEADERS = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0)",
         "Accept-Language": "en-US,en;q=0.5",
@@ -29,13 +28,13 @@ class PvMagUSAScraper:
 
     def __init__(self) -> None:
         """Initialize Scraper object and create scraper directory"""
-        self.scrpdir = Path("./dss-selc-dump/scraper")
+        self.scrpdir = DUMP_PATH / "scraper"
         self.scrpdir.mkdir(exist_ok=True, parents=True)
         self.pvdir = self.scrpdir / "pvmag"
         self.pvdir.mkdir(exist_ok=True, parents=True)
 
     def _load_listing(self) -> None:
-        fp = self.pvdir / "pvmag_usa.json"
+        fp = self.pvdir / "pvmag_global.json"
         if fp.exists():
             print(f"[*] {fp.name} exist, loading it.")
             with fp.open("r") as file:
@@ -49,16 +48,16 @@ class PvMagUSAScraper:
             self.first_time = True
 
     def _dump_listing(self) -> None:
-        with open(self.pvdir / "pvmag_usa.json", "w") as f:
+        with open(self.pvdir / "pvmag_global.json", "w") as f:
             json.dump(self.pvmag_articles, f, indent=4)
-        print(f"[*] Dumped {len(self.pvmag_articles):>05} PVMag USA articles.")
+        print(f"[*] Dumped {len(self.pvmag_articles):>05} PVMag Global articles.")
 
     def _get_body(self, url: str) -> dict[str, Optional[str]]:
-        sleep(PvMagUSAScraper.SLEEP_TIME)
+        sleep(PvMagGlobalScraper.SLEEP_TIME)
         response = requests.get(
             url,
             proxies=PROXIES if USE_SOCKS is True else None,
-            headers=PvMagUSAScraper.HEADERS,
+            headers=PvMagGlobalScraper.HEADERS,
         )
         if response.status_code != 200:
             print(
@@ -75,10 +74,7 @@ class PvMagUSAScraper:
         self._load_listing()
         for ind, (k, v) in enumerate(self.pvmag_articles.items(), start=1):
             if v.get("body") is not None:
-                print(
-                    f"[*] [{ind:>05}/{len(self.pvmag_articles):>05}]"
-                    f" Body for {k} already exist."
-                )
+                print(f"[*] [{ind:>05}] Body for {k} already exist.")
                 continue
             self.pvmag_articles[k] |= self._get_body(v["url"])
             print(
@@ -144,11 +140,11 @@ class PvMagUSAScraper:
         self._load_listing()
         page_num = 1
         while True:
-            requrl = f"https://www.pv-magazine-usa.com/news/page/{page_num}/"
+            requrl = f"https://www.pv-magazine.com/news/page/{page_num}/"
             print(f"[*] Page Num = {page_num}")
             response = requests.get(
                 url=requrl,
-                headers=PvMagUSAScraper.HEADERS,
+                headers=PvMagGlobalScraper.HEADERS,
                 proxies=PROXIES if USE_SOCKS is True else None,
             )
             if response.status_code == 404:

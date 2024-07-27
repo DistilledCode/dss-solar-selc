@@ -12,21 +12,12 @@ git clone https://github.com/DistilledCode/dss-solar-selc
 cd dss-solar-selc
 ```
 
-Install gif-lfs
-
-```bash
-sudo apt-get install git-lfs
-git lfs install
-```
-
-Configure git-lfs
-```bash
-git lfs track "*.json"
-git lfs track "*.parquet"
-```
-
 Install the requiremtents and setup the pre-commit config
 ```bash
-pip install -r requirements.txt
+pip install -e .
+```
+
+For contributions, you need to install `pre-commit` also
+```
 pre-commit install
 ```

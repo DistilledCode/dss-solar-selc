@@ -3,3 +3,5 @@ __pycache__
 /.vscode
 dss-selc-dump/
 docs/
+dump/
+experiment/
