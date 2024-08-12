@@ -49,16 +49,18 @@ JSON_FRMT = """
 }
 """
 
-# ! Gemma-2 9B
-SYS_PROMPT = """<start_of_turn>user
-{prompt}<end_of_turn>
-<start_of_turn>model
-"""
+# ! phi-4k
 SYS_PROMPT = """<|system|>
 You are a helpful AI.<|end|>
 <|user|>
 {prompt}<|end|>
 <|assistant|>
+"""
+
+# ! Gemma-2 9B
+SYS_PROMPT = """<start_of_turn>user
+{prompt}<end_of_turn>
+<start_of_turn>model
 """
 
 dp = Path("../dss-selc-dump/solar_category/")

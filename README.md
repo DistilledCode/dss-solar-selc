@@ -12,7 +12,7 @@ git clone https://github.com/DistilledCode/dss-solar-selc
 cd dss-solar-selc
 ```
 
-Install the requiremtents and setup the pre-commit config
+Install the `dss_solar` module and setup the pre-commit config
 ```bash
 pip install -e .
 ```

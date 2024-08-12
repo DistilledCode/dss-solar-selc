@@ -5,3 +5,4 @@ dss-selc-dump/
 docs/
 dump/
 experiment/
+*.log

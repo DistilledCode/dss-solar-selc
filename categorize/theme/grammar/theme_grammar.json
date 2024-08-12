@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "pr": {
+            "type": "number"
+        },
+        "mi": {
+            "type": "number"
+        },
+        "ti": {
+            "type": "number"
+        },
+        "pa": {
+            "type": "number"
+        },
+        "fi": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "pr",
+        "mi",
+        "ti",
+        "pa",
+        "fi"
+    ],
+    "additionalProperties": false
+}

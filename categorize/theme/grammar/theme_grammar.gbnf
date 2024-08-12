@@ -1,0 +1,10 @@
+decimal-part ::= [0-9]{1,16}
+fi-kv ::= "\"fi\"" space ":" space number
+integral-part ::= [0] | [1-9] [0-9]{0,15}
+mi-kv ::= "\"mi\"" space ":" space number
+number ::= ("-"? integral-part) ("." decimal-part)? ([eE] [-+]? integral-part)? space
+pa-kv ::= "\"pa\"" space ":" space number
+pr-kv ::= "\"pr\"" space ":" space number
+root ::= "{" space pr-kv "," space mi-kv "," space ti-kv "," space pa-kv "," space fi-kv "}" space
+space ::= | " " | "\n" [ \t]{0,20}
+ti-kv ::= "\"ti\"" space ":" space number

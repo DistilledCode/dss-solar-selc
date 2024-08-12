@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "solar": {
+            "type": "number"
+        },
+        "notSolar": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "solar",
+        "notSolar"
+    ],
+    "additionalProperties": false
+}
